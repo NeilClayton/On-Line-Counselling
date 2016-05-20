@@ -1,0 +1,467 @@
+body {
+	background:url(../Images/back.jpg) center center no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	margin:0;
+	padding:50px 0 0 0; 
+}
+.container-fluid {
+	background:rgba(62,96,111,0.5);
+}
+.btn {
+	outline:none;
+}
+.navbar {
+    margin-bottom: 0;
+	border:none;
+	border-radius:0;
+}
+.navbar-default {
+	background:#3E606F;
+	font-family: 'Raleway', sans-serif;
+	border:none;
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:visited, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active  {
+	color:white;
+	font-size:1.5rem;
+}
+.navbar-default .navbar-nav>li:hover {
+	background:#193441;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background:none;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	color:white;	
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar-default .navbar-toggle {
+	border:none;
+	color:white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background:white;
+}
+ .navbar-default .navbar-toggle:hover {
+	 background:none;
+ }
+/* --- Homepage begins --- */
+.introduction {
+	overflow:hidden;
+	background:none;
+	padding:2% 0;
+	color:white;
+}
+.introduction h1 {
+	margin:0 0 2% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:4rem;
+	text-align:center;
+}
+.introduction p {
+	font-family:'Raleway', sans-serif;
+	font-size:1.5rem;
+	text-align:justify;
+
+}
+.quote {
+	font-style:italic;
+}
+
+.nextsection {
+	background:white;
+	/*color:white;*/
+	padding:1% 0;
+	border-top:1px solid #3E606F;
+	border-bottom:1px solid #3E606F;
+}
+.nextsection h1 {
+	margin:10% 0 2% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:2rem;	
+}
+.nextsection li, .advantages li {
+	font-family:'Raleway', sans-serif;
+	text-align:justify;
+	margin:0.5% 0 0 0;
+}
+.advantages {
+	background:none;
+	overflow:hidden;
+	padding:2.5% 0;
+	color:white;
+}
+.advantages h1 {
+	margin:6% 0 2% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:2rem;		
+}
+.advantages p {
+	font-family:arial;
+	font-size:1.5rem;
+	text-align:justify;	
+}
+/* --- Homepage ends --- */
+
+/* --- Contact Page begins --- */
+.container-contact {
+	background:none;
+}
+.contact {
+	padding:8% 0;
+	background:none;
+	font-family:'Raleway', sans-seri
+}
+.contact h1, .faq h1, .testimonials h1, .fees h1, .how-intro h1 {
+	margin:0 0 2% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:4rem;
+}
+.contact form {
+	margin:0;
+	background:#f9f9f9;
+	padding:5% 3%;
+	-webkit-box-shadow: 0px 0px 5px 2px rgba(64,64,64,1);
+	-moz-box-shadow: 0px 0px 5px 2px rgba(64,64,64,1);
+	box-shadow: 0px 0px 5px 2px rgba(64,64,64,1);
+}
+.contact form input {
+	padding:2.5% 1%;
+}
+.form-control {
+	border-radius:0;
+}
+textarea {
+	resize:none;
+}
+.required {
+	color:red;
+	margin-left:7.5%;
+}
+.contact form .btn-primary {
+	padding:0.6% 2%;
+}
+#countleft {
+	margin-top:1%;
+}
+/* --- Contact Page ends --- */
+
+/* --- Faq Page begins --- */
+.faq {
+	background:white;
+	padding:3%;
+}
+.faq-intro {
+	font-family:'Raleway', sans-serif;
+	text-align:justify;
+	margin:2.5% 0;	
+}
+.panel {
+	margin-bottom:1% !important;
+}
+.faqHeader {
+	font-size: 27px;
+    margin: 20px;
+}
+.panel-heading {
+	padding: 1.5% 2%;
+}
+.panel-title {
+	font-family: 'Libre Baskerville', serif;	
+	font-size:1.8rem;
+}
+.panel-title a:hover {
+	text-decoration:none;
+}
+.panel-body {
+	padding:1.5% 2%;
+}
+.panel-body p {
+	font-family:'Raleway', sans-serif;
+	text-align:justify;
+}
+.panel-heading [data-toggle="collapse"]:after {
+    font-family: 'Glyphicons';
+    content: "\276F";
+    float: right;
+    color: #F58723;
+    font-size: 18px;
+    line-height: 22px;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    color: #454444;
+}
+.faq-end {
+	font-family:'Raleway', sans-serif;
+	text-align:justify;
+	margin:1% 0;		
+}
+.faq-end-1 {
+	font-family:'Raleway', sans-serif;
+	text-align:justify;
+	margin:3% 0 1% 0;
+}
+/* --- Faq Page ends --- */
+
+/* --- Testimonials Page begins --- */
+.testimonials {
+	background:white;
+	padding:3%;	
+}
+.testimonials h1 {
+	text-align:center;
+}
+.testimonials ul {
+	list-style-type:none;
+	overflow:hidden;
+	padding:3em;
+	font-family: 'Reenie Beanie', cursive;
+}
+.testimonials ul li {
+  margin:1em;
+  float:left;	
+
+}
+.testimonials ul li a {
+  text-decoration:none;
+  color:#000;
+  display:block;
+  height:15em;
+  width:15em;
+  margin-right:1%;
+  padding:1em;	
+  font-size:190%;
+   /* Firefox */
+  -moz-box-shadow:5px 5px 7px rgba(33,33,33,1);
+  /* Safari+Chrome */
+  -webkit-box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  /* Opera */
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+}
+.testimonials ul li a:hover, .testimonials ul li a:focus, .testimonials ul li a:active {
+  box-shadow: 5px 5px 7px rgba(33,33,33,.3);
+}
+.stickynote1 {
+	-webkit-transform:rotate(-6deg);
+	-o-transform:rotate(-6deg);
+	-moz-transform:rotate(-6deg);
+	background:#ffc;
+}
+.stickynote2 {
+	-o-transform:rotate(4deg);
+	-webkit-transform:rotate(4deg);
+	-moz-transform:rotate(4deg);
+	position:relative;
+	top:5px;	
+	background:#B3E8FF;
+}
+.stickynote3 {
+	-o-transform:rotate(-3deg);
+	-webkit-transform:rotate(-3deg);
+	-moz-transform:rotate(-3deg);
+	position:relative;
+	top:-5px;	
+	background:#B3FFC0;
+}
+.stickynote4 {
+	-o-transform:rotate(5deg);
+	-webkit-transform:rotate(5deg);
+	-moz-transform:rotate(5deg);
+	position:relative;
+	top:20px;
+	background:#FFD2FF;
+}
+.stickynote5 {
+	position:relative;
+	top:-5px;
+	background:#ffc;
+}
+.stickynote6 {
+	-o-transform:rotate(-8deg);
+	-webkit-transform:rotate(-8deg);
+	-moz-transform:rotate(-8deg);
+	background:#BFC6A5;	
+}
+/* --- Testimonials Page ends --- */
+
+/* --- Fees Page begins --- */
+.fees {
+	background:white;
+	padding:3% 0;
+}
+.fees-intro {
+	text-align:center;
+	font-family:'Raleway', sans-serif;
+	margin: 0 0 2% 0;
+}
+.fees h1 {
+	text-align:center;
+}
+.fees .price {
+	color:red;
+}
+.fees .jumbotron {
+	padding: 2% 5.5%;
+}
+.fees .jumbotron h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:3rem;	
+}
+.fees .jumbotron p {
+	font-family:'Raleway', sans-serif;
+	font-size:1.6rem;	
+	text-align:justify;
+}
+.fees .btn-primary {
+	font-size:1.8rem;
+	padding: 0.6% 2%;
+}
+.fees .btn-primary a {
+	color:white;
+}
+.fees .btn-primary a:active, .btn-primary a:hover, .btn-primary a:focus {
+	text-decoration:none;
+}
+/* --- Fees Page ends --- */
+
+/* --- How Page begins --- */
+.how-intro {
+	background:none;
+	color:white;
+	padding:3% 0;
+}
+.how-intro h1 {
+	text-align:center;
+}
+.how-intro p {
+	font-family:'Raleway', sans-serif;
+	font-size:1.5rem;	
+	text-align:justify;
+}
+.how-1 {
+	background:white;
+	padding:1% 0 2% 0;
+}
+.how-1 h2, .how-2 h2 {
+	margin:3% 0 2% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:3rem;
+}
+.how-1 p, .how-2 p {
+	font-family:'Raleway', sans-serif;
+	font-size:1.5rem;	
+	text-align:justify;	
+}
+.how-1 ul, .how-2 ul {
+	font-family:'Raleway', sans-serif;
+	font-size:1.5rem;	
+	margin:0;	
+}
+.how-2 {
+	background:none;
+	padding:1% 0 2% 0;
+	color:white;
+}
+
+.btn-primary a {
+	color:white;
+}
+.btn-primary a {
+		text-decoration:none;
+}
+.how-1 .btn-primary {
+	font-size:1.6rem;
+	padding:0.6% 2%;
+}
+.how-1 h3, .how-2 h3 {
+	margin:3% 0 1% 0;
+	font-family: 'Libre Baskerville', serif;
+	font-weight:bold;
+	font-size:1.8rem;	
+}
+.how-1 .btn-info, .how-2 .btn-info {
+	margin-top:1%;
+}
+/* --- How Page ends --- */
+footer {
+	float:left;
+	width:100%;
+	background:#3E606F;
+	color:white;
+	padding:0;
+}
+footer p {
+	width:100%;
+	text-align:center;
+	font-size:1.2rem;
+	padding:1% 0;
+	margin:0;
+}
+
+@media all and (max-width:768px) {
+	.navbar-default .navbar-nav>li:hover {
+	background:none;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: white;
+	}
+	/*.navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: none;
+        box-shadow: none;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-nav {
+        float: none! important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    .navbar-collapse.collapse.in { 
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }*/
+	
+}
