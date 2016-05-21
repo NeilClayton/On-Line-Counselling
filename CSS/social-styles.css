@@ -19,7 +19,7 @@
 #social-sidebar li:last-child a { border-bottom-right-radius: 0; }
 
 #social-sidebar a {
-	background:#454545;
+	/*background:#454545;*/
 	color: #fff;
 	text-decoration: none;
 	display: block;
@@ -67,7 +67,21 @@
 	top: 50%;
 	transform: rotate(45deg);
 }
-
+.entypo-twitter {
+	background: #00aced;
+}
+.entypo-facebook {
+	background: #3B5998	
+}
+.entypo-print {
+	background: #AEAEAE;
+}
+.entypo-mail {
+	background: #E34429;	
+}
+.entypo-plus {
+	background: #8DC5F2;	
+}
 #social-sidebar a[class*="twitter"]:hover,
 #social-sidebar a[class*="twitter"] span,
 #social-sidebar a[class*="twitter"] span:before {background: #00aced;}
