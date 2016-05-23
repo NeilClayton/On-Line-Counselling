@@ -8,7 +8,7 @@
 #social-sidebar {
 	left: 0;
 	position: fixed;
-	top: 43%;
+	top: 39.5%;
 	margin:0;
 	z-index:3;
 	list-style:none;
@@ -102,3 +102,8 @@
 #social-sidebar a[class*="plus"] span,
 #social-sidebar a[class*="plus"] span:before {background: #8DC5F2;}
 
+@media all and (max-width:375px) {
+	#social-sidebar {
+		display:none;
+	}
+}
