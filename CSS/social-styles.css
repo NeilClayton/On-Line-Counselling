@@ -1,6 +1,62 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
+/* --- Button to toggle social bar --- */
+
+#hide {
+	left: 0;
+	position: fixed;
+	top: 60.68%;
+	z-index:3;
+	list-style:none;
+	border:none;
+	background:rgba(0 ,0 ,0, 0.5);
+	color:white;
+	padding:0;
+	width:50px;
+	height:50px;
+	font-size:2rem;
+	transition: width ease-in 0.15s;
+}
+#hide, #hide.active, #hide.focus {
+	outline:none;
+}
+#hide:hover {
+	width:55px;
+}
+#hide:hover span {
+	left: 120%;
+	opacity: 1;
+}
+#hide span {
+	font: 12px "Open Sans", sans-serif;
+	text-transform: uppercase;
+	border-radius: 3px;
+	line-height: 24px;
+	left: -100%;
+	margin-top: -16px;
+	opacity: 0;
+	padding: 4px 8px;
+	position: absolute;
+	transition: opacity .3s, left .4s;
+	top: 50%;
+	z-index: -1;
+	background:rgba(0 ,0 ,0, 0.5);
+}
+#hide span:before {
+	content: "";
+	display: block;
+	height: 8px;
+	width: 8px;
+	left: -4px;
+	margin-top: -4px;
+	position: absolute;
+	top: 50%;
+	transform: rotate(45deg);
+}
+
+/* --- Social bar ---*/
+
 [class^="entypo-"]:before {
 	font-family: 'entypo', sans-serif;
 }
@@ -13,12 +69,10 @@
 	list-style:none;
 	padding:0;
 }
-
 #social-sidebar li:first-child a { border-top-right-radius: 0; }
 #social-sidebar li:last-child a { border-bottom-right-radius: 0; }
 
 #social-sidebar a {
-	/*background:#454545;*/
 	color: #fff;
 	text-decoration: none;
 	display: block;
@@ -34,12 +88,10 @@
 #social-sidebar a:hover {
 	width: 55px;  	
 }
-
 #social-sidebar a:hover span {
 	left: 120%;
 	opacity: 1;
 }
-
 #social-sidebar a span {
   font: 12px "Open Sans", sans-serif;
   text-transform: uppercase;
@@ -54,7 +106,6 @@
 	top: 50%;
 	z-index: -1;
 }
-
 #social-sidebar a span:before {
 	content: "";
 	display: block;
