@@ -32,9 +32,11 @@
 				</section>
 				<section class="row contactform">
 					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
-						<form>
+						<!-- Div for erorr/success message -->
+						<div id="form-messages"></div>
+						<form id="form-contact" method="post" action="mailer.php">
 						<!-- Div to group these elements -->
-							<div class="form-group ">
+							<div class="form-group">
 								<label for="name">Full name</label>
 								<input type="text" class="form-control" id="inputHelpBlock name" placeholder="Who are you?" aria-describedby="helpBlock" autofocus>
 								<span id="helpBlock" class="help-block">Leave this field blank if you wish to keep your anonymity.</span>
@@ -62,6 +64,7 @@
 							</div>
 							<button type="submit" class="btn btn-primary">Submit</button>
 						</form>
+						<script src="ajax-form.js"></script>
 					</section>
 				</section>
 			</section>

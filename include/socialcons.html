@@ -1,10 +1,18 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#hide").click(function(){
+        $("#social-sidebar").toggle();
+    });
+});
+</script>
 <section class="container-fluid">
-	<section class="row">	
-		
-		<ul id="social-sidebar">
+	<section class="row">
+		<ul id="shtoggles">
 			<li>
-			<button>hide</button>
-			</li>
+			<button id="hide">click</button>
+			</li>	
+		<ul id="social-sidebar">
 			<li>
 				<a class="entypo-facebook" href="http://bit.ly/1TrsHo9" target="_blank"><span>Facebook</span></a>
 			</li>
