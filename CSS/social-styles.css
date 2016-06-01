@@ -10,7 +10,7 @@
 	z-index:3;
 	list-style:none;
 	border:none;
-	background:rgba(0 ,0 ,0, 0.5);
+	background:#6e6e6e;
 	color:white;
 	padding:0;
 	width:50px;
@@ -41,7 +41,7 @@
 	transition: opacity .3s, left .4s;
 	top: 50%;
 	z-index: -1;
-	background:rgba(0 ,0 ,0, 0.5);
+	background:#6e6e6e;
 }
 #hide span:before {
 	content: "";
