@@ -12,14 +12,11 @@ body {
 	position: relative;
 	min-height: 100%;
 }
-.container-fluid {
-
-}
 .btn {
 	outline:none;
 }
 .numbers {
-list-style-type:decimal;
+	list-style-type:decimal;
 }
 .neda {
 	float:left;
@@ -350,6 +347,7 @@ textarea {
 }
 .fees .jumbotron {
 	padding: 2% 5.5%;
+	overflow:hidden;
 }
 .fees .jumbotron h2 {
 	font-family: 'Libre Baskerville', serif;
@@ -357,9 +355,14 @@ textarea {
 	font-size:3rem;	
 }
 .fees .jumbotron p {
+	margin-top:2%;
 	font-family:'Raleway', sans-serif;
 	font-size:1.6rem;	
 	text-align:justify;
+}
+.fees ul {
+	margin:0;
+	padding:0;
 }
 .fees .btn-primary {
 	font-size:1.8rem;

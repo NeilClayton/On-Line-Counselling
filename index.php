@@ -4,7 +4,6 @@
 	<title>On-line-counselling - On Line Counselling Affordable, Skype On Line Counselling Via On Line Chat, Psychologist</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<!-- Latest compiled and minified CSS -->
-
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->

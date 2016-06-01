@@ -3,11 +3,26 @@ include('include/function.php');
 include('include/connection.php');
 echo connection_open();
 ?>
-<html>
-    <head>
-        <title>Successful</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Payment successful</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="CSS/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="JS/bootstrap.min.js"></script>
+	<!-- Custom JS -->
+	<script src="JS/controls.js"></script>
+	<script src="https://use.fontawesome.com/71ebc9e44c.js"></script>
+	<!-- Custom CSS -->
+	<link href="CSS/styles.css" rel="stylesheet">
+	<link href="CSS/social-styles.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
     <body>
         <?php
         if (!empty($_REQUEST)) {
@@ -27,13 +42,12 @@ echo connection_open();
             echo connection_close();
         }
         ?>
-        <div>
-            <h1>Successful Transaction</h1>
-
-            <div>
-                <h2>Payment Status</h2>
-				</br>
-
+		<section class="container-fluid">
+			<section class="row success">
+				<section class="col-md-8 col-md-offset-2">
+					<h1>Successful Transaction</h1>
+					<h2>Payment Status</h2>
+					<section class="receipt">
                 <?php
                 #Rechecking the product price and currency details
                 if ($product_price == $result['product_price'] && $product_currency == $result['product_currency']) {
@@ -48,8 +62,10 @@ echo connection_open();
                     echo "<div><a href='fees.php'>Back to Fees page</a></div>";
                 }
                 ?>
-            </div>
-        </div>
+					</section>
+				</section>
+			</section>
+        </section>
     </body>
 </html>
 
