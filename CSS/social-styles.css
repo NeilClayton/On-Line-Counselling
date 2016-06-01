@@ -156,4 +156,23 @@
 	#social-sidebar {
 		display:none;
 	}
+	#social-sidebar a:hover {
+		width: 50px;  	
+	}
+	#social-sidebar a:hover span {
+		left: -100%;
+		opacity: 0;
+	}
+	#hide {
+		top: 74.73%;
+		height:25px;
+		font-size:1.5rem;
+	}
+	#hide:hover {
+		width:50px;
+}
+	#hide:hover span {
+		left: -100%;
+		opacity: 0;
+	}
 }
