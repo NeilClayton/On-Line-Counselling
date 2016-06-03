@@ -31,9 +31,9 @@ echo connection_open();
             $product_price = $_REQUEST['amt']; 
             $product_currency = $_REQUEST['cc']; 
             $product_status = $_REQUEST['st']; 
-                
             $product_no = base64_decode($product_no);
-            $data = array(
+            $data = array
+			(
                 'product_id' => $product_no
             );
             $query = Select_Record_By_One_Filter($data, 'tbl_product_detail');
@@ -48,19 +48,40 @@ echo connection_open();
 					<h1>Successful Transaction</h1>
 					<h2>Payment Status</h2>
 					<section class="receipt">
+					
+					<!--Successful Transaction -->
+					<h3>Payment Successful</h3>
+					<P>Transaction Status - Complete </P>
+					<P>Transaction Id - 5GHTJIDM5$S5 </P>
+					<P><a href='fees.php'>Back to Fees page</a></P>
+					<br>
+					<br>
+					<br>
+					<br>
+					<!--Failed Transaction -->
+					<h3>Payment Failed</h3>
+					<P>Transaction Status - Failed</P>
+					<P>Transaction Id - N/A </P>
+					<P><a href='fees.php'>Back to Fees page</a></P>					
+					
+					
                 <?php
-                #Rechecking the product price and currency details
-                if ($product_price == $result['product_price'] && $product_currency == $result['product_currency']) {
-                    echo "<h3>Payment Successful</h3>";
-                    echo "<P>Transaction Status - " . $product_status . "</P>";
-                    echo "<P>Transaction Id - " . $product_transaction . "</P>";
-                    echo "<div><a href='fees.php'>Back to Fees page</a></div>";
-                } else {
-                    echo "<h3>Payment Failed</h3>";
-                    echo "<P>Transaction Status - Unompleted</P>";
-                    echo "<P>Transaction Id - " . $product_transaction . "</P>";
-                    echo "<div><a href='fees.php'>Back to Fees page</a></div>";
-                }
+                #Rechecking the product price and currency detail
+				
+               # if ($product_price == $result['product_price'] && $product_currency == $result['product_currency']) 
+				#{
+                    #echo "<h3>Payment Successful</h3>";
+                    #echo "<P>Transaction Status - " . $product_status . "</P>";
+                    #echo "<P>Transaction Id - " . $product_transaction . "</P>";
+                    #echo "<p><a href='fees.php'>Back to Fees page</a></p>";
+                #} 
+				#else 
+				#{
+                    #echo "<h3>Payment Failed</h3>";
+                    #echo "<P>Transaction Status - incomplete</P>";
+                    #echo "<P>Transaction Id - " . $product_transaction . "</p>";
+                    #echo "<p><a href='fees.php'>Back to Fees page</a></p>";
+                #}
                 ?>
 					</section>
 				</section>
