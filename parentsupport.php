@@ -3,7 +3,6 @@
 	<head>
 	<title>Parents Support - Young People & Children</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -23,51 +22,51 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>For Parents </h1>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Will my child be supported by someone who is properly trained and qualified? </h2>
 						<p>The main accrediting body for counsellors is the British Association for Counselling and Psychotherapy (BACP). I am accredited by the BACP and have a full membership,
 						I am fully CRB (Criminal Records Bureau) checked also known as DBS (Disclosure & Barring services). I work for the NSPCC and have over 10 years experience working with young people face to face and on line.</p>
-						<section class="accredited">
+						<div class="accredited">
 							<img src="Images/accredited.png" width="204" height="80" class="img-responsive img-thumbnail" alt="accredited member">
 							<img src="Images/bacp.png" width="125" height="83" class="img-responsive img-thumbnail" alt="accredited member of bacp">
 							<img src="Images/cbt.png" width="72" height="88" class="img-responsive img-thumbnail" alt="cbt">
-						</section>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+						</div>
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What if my child says private things about my family?</h2>
 						<p>It is important that your child feels free to talk about experiences in the family that may be troubling or confusing. It matters that you give approval to your child to talk to a counsellor. 
 						It is understandable you might feel worried about what your child may wish to talk about in counselling. However, you should bear in mind that the strict code of ethics counsellors follow includes clauses about confidentiality. </p>
 						<h3>The counsellor is not there to judge you or anyone else in your family, their sole purpose is to help your child manage their problems and try to resolve them in a positive way.</h3>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Can I ask my child about counselling sessions?</h2>
 						<p>The counselling relationship is very private and personal, and each child will respond differently. Some children may wish to talk to their parents about  sessions, while others, especially teenagers, may wish to keep the content of the sessions to themselves. 
 						It is important to be guided by your child and to respect these individual differences. There may be times when your child seems more upset following a counselling session, and this may be because they have been talking about painful feelings. 
 						Showing sensitivity to their distress, while also respecting their right to privacy, is a difficult but important balance for parents to achieve.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Can I ask my child's counsellor how the sessions are going?</h2>
 						<p>It is natural that you will want to know how your child is getting on in in general their counselling. Further details will only be shared with your child’s consent and knowledge of what is to be discussed. 
 						It is important to remember the counsellor will have agreed to a confidential relationship with your child and has a duty to stick to this. The only very rare exception to this would be if the counsellor thought your child was at serious risk of harming themselves or others.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What I can help your child with</h2>
 						<p>A few things I can help with but if your issue or problem is not listed here please message me and I will do my best to support you and your child.</p>
-						<section class="tab-content">
+						<div class="tab-content">
 							<ul class="nav nav-tabs">
 								<li class="active"><a data-toggle="tab" href="#a-issues">A</a></li>
 								<li><a data-toggle="tab" href="#b-issues">B</a></li>
@@ -169,10 +168,10 @@
 									<li>Young carers.</li>
 								</ul>
 							</div>
-						</section>
-					</section>
-				</section>
-			</section>
+						</div>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

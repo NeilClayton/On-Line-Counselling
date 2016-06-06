@@ -1,6 +1,9 @@
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("#social-sidebar").toggle();
+        $("#fb").toggle();
+		$("#twitter").toggle();
+		$("#print").toggle();
+		$("#email").toggle();
     });
 });
 

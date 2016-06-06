@@ -3,9 +3,7 @@
 	<head>
 	<title>FAQ & Common Questions</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
-
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
@@ -20,16 +18,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-		<?php
+	<?php
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row faq">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row faq">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>Frequently asked questions</h2>
 						<p class="faq-intro">Although now well established as a method of helping people, counselling, particularly online counselling is still an unknown to many people. So I have written some of the more commonly asked questions and my replies so that you may feel better informed and comfortable. Please see below.</p>
-					</section>
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 question">
+					</div>
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 question">
 						<div class="panel-group" id="accordion">
 							<div class="panel panel-default">
 								<div class="panel-heading">
@@ -112,9 +110,9 @@
 							Having someone to really listen to you and your worries really helps.Using my 13 years experience of actually working as a counsellor, using tried and tested counselling strategies to help you find your way again, I will help you to take control of your life, starting Today!</p>
 
 						</div>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 <?php
 	include('include/footer.html');
 	?>

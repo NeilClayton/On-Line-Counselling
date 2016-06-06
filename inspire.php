@@ -3,7 +3,6 @@
 	<head>
 	<title>Inspirational Photos</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -25,13 +24,13 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row inspire-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+				<div class="row inspire-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 						<h1>Inspirational Photos</h1>
-					</section>
-				</section>
-				<section class="row how-inspire">
-					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+					</div>
+				</div>
+				<div class="row how-inspire">
+					<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 						<div id="myCarousel" class="carousel slide" data-ride="carousel">
 						<!-- Indicators -->
 						<ol class="carousel-indicators">
@@ -70,9 +69,9 @@
 							<span class="sr-only">Next</span>
 						</a>
 						</div>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

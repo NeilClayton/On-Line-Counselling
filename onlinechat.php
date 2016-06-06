@@ -3,7 +3,6 @@
 	<head>
 	<title>Connect to online chat</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -23,13 +22,13 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 						<h1>Connect to online chat</h1>
-					</section>
-				</section>
-				<section class="row how-1 skype">
-					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+					</div>
+				</div>
+				<div class="row how-1 skype">
+					<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 						<h2>How to connect</h2>
 						<p>There are two ways in which you may communicate with me:</p>
 						<h3>IM (Instant Messaging)</h3>
@@ -38,17 +37,17 @@
 						<button class="btn btn-primary"><a href="http://www.skype.com/en/download-skype/skype-for-computer" target="_blank"><i class="fa fa-skype"></i>&nbsp;&nbsp;Get Skype</a></button>
 						<h3>Email me</h3>
 						<p>I will reply to all emails within 12 hours of your payment being received.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 						<h2>How to pay</h2>
 						<p>Payments will be requested by the official PayPal website only. This offers you complete payment security and online protection. (You do not need to have a PayPal account, you can simply pay with your credit or debit card through PayPal ). Click <a href="fees.html">here</a> to see the fees and pay.</p>
 						<p>Once payment is received, you will be sent a receipt and an email from me to confirm your session. All sessions should be paid for at least 3 days prior to the session date unless discussed in advance with me.</p>
 						<h3>*Please note: Requests to reschedule must be emailed to me at least 24 hours prior to the scheduled appointment, otherwise the session will be charged. Missed sessions without prior contact will need to be charged.</h3>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

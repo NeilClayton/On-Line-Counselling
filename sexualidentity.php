@@ -3,7 +3,6 @@
 	<head>
 	<title>Sexual Identity & Transgender</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -19,24 +18,24 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-			<?php
+	<?php
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>Sexual Identity &amp; Transgender Support</h1>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Sexual Identity</h2>
 						<p>Part of your sexual identity might involve working out if you are attracted to boys, girls, or both. </p>
 						<p>For people who do identify as gay, bisexual, lesbian or transgender it may help them to have a voice, pride and a sense of validation or belonging, having worked through the feelings of feeling different, it can be very powerful for people who have suppressed or hidden parts of themselves to suddenly fit in with ever growing member of the wider gay community.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Sexuality Counselling – What is it?</h2>
 						<h3>Whilst exploring our sexuality and coming to terms with it ourselves, we may experience some of the following feelings if we do not have supportive friends or family:</h3>
 						<ul>
@@ -47,17 +46,17 @@
 							<li>Depression</li>
 						</ul>
 						<br><p>​​Remember, sex is only a small part of sexuality, it is also about love and who we are as people. It can be private, just the same as it is for anyone else.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What does Transgender mean?</h2>
 						<p>Transgender is a word which describes people who feel the sex they have been born and raised as does not match how they feel inside. When we are born people decide our gender for us. 
 						This means they decide whether we are a boy or a girl, usually by looking at our bodies and deciding if we have male or female sex organs. Some people feel unhappy with the gender they are brought up as. </p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>This can include:</h2>
 						<p>Feeling that you are a boy when you have been brought up as a girl, or the other way round. Wishing you could change your body to look more like the way you feel inside.
 						This is often known as being transgender or trans for short. Not everyone who is trans wants to go from living as a girl to living as a boy (or the other way round). 
@@ -67,9 +66,9 @@
 						If you are scared to talk to people you know, then talk to a counsellor</p>
 						<h3>I have over 10 years experience working with people who are either exploring their sexuality or gender</h3>
 						<p>I can help you work on your self-acceptance and self esteem, you do not have to share your feelings until you feel you want to, or are ready to.</p>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

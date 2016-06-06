@@ -42,23 +42,23 @@ echo connection_open();*/
             // echo connection_close();
         // }
         ?>
-		<section class="container-fluid">
-			<section class="row success">
-				<section class="receipt">
+		<div class="container-fluid">
+			<div class="row success">
+				<div class="receipt">
 				<!--Successful Transaction -->
-					<section class="id pull-left">
+					<div class="id pull-left">
 						<p class="what">On-Line-Counselling-Services</p>
 						<p class="what">Customer Receipt</p>
-					</section>
-					<section class="date pull-right">
+					</div>
+					<div class="date pull-right">
 						<p class="when">3rd June 2016</p>
 						<p class="when">Receipt: #2132432D</p>
-					</section>
-					<section class="details clearfix">
+					</div>
+					<div class="details clearfix">
 						<h1>Receipt</h1>
 						<h2>Service<b class="pull-right">Price</b></h2>
 						<p class="service">Email Session<b class="pull-right gross">£39</b></p>
-						<section class="payment-status clearfix">
+						<div class="payment-status clearfix">
 							<h2>Payment status</h2>
 							<p class="text-success service">Successful</p>
 							<!--<p class="text-danger service">Failed</p>-->
@@ -68,14 +68,14 @@ echo connection_open();*/
 							<h2>Transaction ID</h2>
 							<p class="service">5GHTJIDM5$S5</p>
 							<!--<p class="service">N/A</p>-->
-						</section>
-						<section class="cost">
+						</div>
+						<div class="cost">
 							<h3>Total: <b class="total">£39.00</b></h3>
-						</section>
-					</section>
+						</div>
+					</div>
 					<button type="button" class="btn btn-success"><a href="fees.php"><i class="fa fa-chevron-left"></i>&nbsp;&nbsp;Fees page</a></button>
 					<button type="button" class="btn btn-info pull-right" onclick="window.print()"><i class="fa fa-print"></i>&nbsp;&nbsp;Print Receipt</button>
-				</section>
+				</div>
                 <?php
                 /* Rechecking the product price and currency detail
 				
@@ -94,9 +94,9 @@ echo connection_open();*/
                     echo "<p><a href='fees.php'>Back to Fees page</a></p>";
                  }*/
                 ?>
-				</section>
-			</section>
-        </section>
+				</div>
+			</div>
+        </div>
     </body>
 </html>
 

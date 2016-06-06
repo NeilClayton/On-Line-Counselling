@@ -3,7 +3,6 @@
 	<head>
 	<title>Pregnancy Loss</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -23,13 +22,13 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>Losing Your Baby Before They Were Born</h1>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Pregnancy Loss</h2>
 						<p>Losing a baby at any point during pregnancy can be a physically and emotionally devastating experience. It can feel like your whole world has fallen apart​
 						Most people are left with feelings of great sadness and regret.</p>
@@ -41,27 +40,27 @@
 						It’s certainly very common and natural to feel jealous and to feel that this is all very unfair.</p>
 						<p>For some people, their feelings are intense but not overwhelming. Others are devastated by what they feel and for a time feel barely able to cope. Everyday tasks, whether at home or at work, can seem impossible to manage or not worth doing. 
 						The world can feel turned upside down.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Physical Feelings<b class="pull-right">(1)</b></h2>
 						<h3>It is also common to feel loss in physical ways.</h3>
 						<p>A lot of women find they feel very tired, even some time after the loss. You may also have headaches or stomach-aches, be constipated, have diarrhoea, or find it hard to sleep.
 						These symptoms will probably disappear in time, but if you feel worried about them, it might be a good idea to talk to your GP.</p>
 						<p>If you haven’t been able to tell your family, friends or partner about your miscarriage – or if you don’t have a partner – then you may feel very lonely and isolated.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Physical Feelings<b class="pull-right">(2)</b></h2>
 						<h3>A particular kind of loss</h3>
 						<p>Loss of a baby is a particular kind of loss and can bring particular feelings.you might grieve for a person you never got know, and for a relationship that ended before it really began.
 						Sometimes the words ‘loss’ and ‘losing’ somehow does not feel right. You might think that ‘losing a baby’ sounds like something to be blamed for, as if you were careless. That’s certainly not what is meant when we use these words  </p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>How counselling helps<b class="pull-right">(1)</b></h2>
 						<p>Therapy can successfully reduce sadness, depression and anxiety and help you resolve your grief faster.</p>
 						<h3>Benefits of counselling:</h3>
@@ -74,19 +73,19 @@
 							<li>Feel good about yourself again.</li>
 							<li>Regain confidence to experience another pregnancy.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>How counselling helps<b class="pull-right">(2)</b></h2>
 						<p>As a counsellor specialising in reproductive and pregnancy related issues, I know how to help support you through your sadness and other intense feelings.
 						I can help you find your way to feeling good about yourself and your life again. I have personaly experienced loss several time myself, and have experienced the impact it can bring.
 						I have been fortunate to provide therapy to many women and couples who were able to regain their strength after their loss</p>
 						<p>Although how you feel about your loss may heal with time, research shows that early psychological intervention can effectively decrease emotional distress, depression and anxiety in the first year after your loss.</p>
 						<h3>As a counsellor with expertise and personal experience in the area of pregnancy loss, I can help you move through this time feeling supported.</h3>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 <?php
 	include('include/footer.html');
 	?>

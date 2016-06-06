@@ -23,17 +23,17 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row introduction">
-					<section class="col-sm-10 col-offset-1 col-md-8 col-md-offset-2">
+				<div class="row introduction">
+					<div class="col-sm-10 col-offset-1 col-md-8 col-md-offset-2">
 						<h1>On-line-Counselling-Services</h1>
 						<p class="quote">"Life is tough for most people, I don't actually know anyone with an &lsquo;easy life&rsquo;, accepting and learning to live and function in this world can be a challenge.
 						Life and the people in our lives can throw many obstacles and challenges in our path, finding a way through these challenges can define our levels of self worth and ultimately our happiness and well-being. 
 						I am looking forward to working with you, getting to know you and reading what problems are currently holding you back. We can work together to make things better for you from this moment on."</p> 
 						<p>my best wishes and peace - Paula</p>
-					</section>
-				</section>
-				<section class="row nextsection">
-					<section class="col-sm-12 col-md-4 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row nextdiv">
+					<div class="col-sm-12 col-md-4 col-md-offset-1">
 						<div id="myCarousel" class="carousel slide" data-ride="carousel">
 						<!-- Indicators -->
 						<ol class="carousel-indicators">
@@ -72,9 +72,9 @@
 							<span class="sr-only">Next</span>
 						</a>
 						</div>
-				</section>
-				<section class="col-sm-10 col-md-4">
-					<h1>Research suggests that online counselling is of particular benefit to:</h1>
+				</div>
+				<div class="col-sm-10 col-md-4">
+					<h2>Research suggests that online counselling is of particular benefit to:</h2>
 					<ul>
 						<li>People with mobility issues</li>
 						<li>Those living in areas where finding a counsellor is difficult.</li>
@@ -84,30 +84,30 @@
 						<li>You can arrange your online counselling session to fit around your busy schedule.</li>
 						<li>It is more confidential because you will not be seen entering or leaving counselling premises, and no records are kept.</li>
 					</ul>
-				</section>
-			</section>
-			<section class="row advantages">
-				<section class="col-md-4 col-md-offset-2">
+				</div>
+			</div>
+			<div class="row advantages">
+				<div class="col-md-4 col-md-offset-2">
 					<h1>​Advantages of online counselling:</h1>
 					<ul>
 					<li>You can stay anonymous.</li>
 					<li>You can access online counselling conveniently from your own home or work place.</li>
 					<li>Online Counselling is more affordable than face to face counselling.</li>
 					</ul>
-					<section class="accredited2">
+					<div class="accredited2">
 						<img src="Images/accredited.png" width="204" height="80" class="img-responsive img-thumbnail" alt="accredited member">
 						<img src="Images/bacp.png" width="125" height="83" class="img-responsive img-thumbnail" alt="accredited member of bacp">
 						<img src="Images/cbt.png" width="72" height="88" class="img-responsive img-thumbnail" alt="cbt">
-					</section>
-				</section>
-				<section class="col-md-4">
+					</div>
+				</div>
+				<div class="col-md-4">
 				<p>I can support you with your suicidal thoughts when there is no immediate plan to end your life.</p>
 				<p>PLEASE NOTE: If you are feeling suicidal right now Online Counselling is not suitable. Please contact the free number below for immediate support 24/7.</p>
 				<p>The Samaritans<br>Telephone 116 123<br>UK & ROI</p>
 				<p>Or click the link below to the  Samaritans web site for further advice and support.</p>
-				</section>
-			</section>
-		</section>
+				</div>
+			</div>
+		</div>
 <?php
 	include('include/footer.html');
 ?>

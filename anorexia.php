@@ -3,7 +3,6 @@
 	<head>
 	<title>Eating Disorders - Anorexia</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -23,23 +22,23 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>Anorexia Nervosa</h1>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What is Anorexia Nervosa?</h2>
 						<p>Anorexia nervosa causes the sufferer to fear weight gain and restrict their diet in an unhealthy way. An individual with anorexia is likely to perceive themselves as overweight, even if they are of a normal or below normal weight. 
 						This distorted perception combined with other emotional factors typically lead to the sufferer limiting their intake of food and effectively starving themselves to get to the lowest weight possible.</p>
 						<p>The condition often stems from low self-esteem and an inability to cope or manage difficult feelings. Those with anorexia may believe that they will only be happy once they reach a certain weight, but sadly this is rarely the case. 
 						Soon the eating disorder takes over, becoming a habitual coping mechanism that is difficult to stop.</p>
 						<p>If you have anorexia, it may feel as if there is no way out - but there are many professionals out there who can support you during your recovery. Whether it is yourself you are concerned about or a loved one.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(1)</b></h2>
 						<p>If you have an eating disorder, one of the key symptoms will be the way you think about food. Rather than viewing food as something to enjoy or to provide sustenance, you are likely to view food in a negative way. 
 						You may see it as something that makes you fat, something to avoid and even something that frightens you. Your thoughts are also likely to revolve around your weight, body shape and the way you feel about them.</p>
@@ -54,10 +53,10 @@
 							<li>Skipping meals or only eating low-calorie foods.</li>
 							<li>Constantly weighing yourself.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(2)</b></h2>
 						<h3>Psychological symptoms</h3>
 						<p>As anorexia is a mental illness there are typically a range of psychological symptoms as well, these may include:</p>
@@ -68,10 +67,10 @@
 							<li>Low confidence and self-esteem.</li>
 							<li>A desire to disappear or self-harm..</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(3)</b></h2>
 						<h3>Physical symptoms</h3>
 						<p>These thoughts, feelings and behaviours are what ultimately lead to a low body weight, and this can cause a range of physical side effects. Such effects may include:</p>
@@ -86,10 +85,10 @@
 							<li>Stomach pains/digestive issues.</li>
 						</ul>
 						<p>If anorexia is left untreated, medical intervention may be required and in some cases the disorder can be fatal. With the right treatment and support however, the disorder can be overcome with many sufferers going on to make a full recovery.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Common factors<b class="pull-right">(1)</b></h2>
 						<h3>Psychological factors</h3>
 						<p>It has been found that many of those who develop anorexia tend to share similar personality or behavioural traits. Some of these traits include the following:</p>
@@ -101,10 +100,10 @@
 							<li>Bottling up feelings and being emotionally restrained.</li>
 							<li>Feelings of obsession or compulsion.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Common factors<b class="pull-right">(2)</b></h2>
 						<h3>Environmental factors</h3>
 						<p>Perhaps the most debated cause of eating disorders - certain environmental factors are thought to also contribute to the development of anorexia. These include:</p>
@@ -115,17 +114,17 @@
 							<li>A stressful life event.</li>
 							<li>Experiencing physical or sexual abuse..</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Previous experience with Anorexia Nervosa</h2>
 						<p>I have worked in the field of eating disorders counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with food and the subsequent behaviours such as anorexia and bulimia which can affect people’s lives, 
 						focusing on the underlying life issues which contribute to food related problems helps clients to learn to live a life free of the debilitating problematic use of food</p>
 						<h3>Most food related issues are a result of unresolved psychological issues from our pasts, I will help clients to find closure to these issues.</h3>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>
