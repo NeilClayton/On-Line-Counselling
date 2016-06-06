@@ -91,14 +91,14 @@ body {
 	font-style:italic;
 }
 
-.nextsection {
+.nextdiv {
 	background:white;
 	padding:1% 0;
     display:flex;
     align-items: center;
     justify-content: center;
 }
-.nextsection h1 {
+.nextdiv h2 {
 	margin:0 0 2% 0;
 	font-family: 'Libre Baskerville', sans-serif;
 	font-weight:bold;
@@ -106,7 +106,7 @@ body {
     vertical-align:middle; /*middle centred*/
     display:table-cell; /*acts like a table cell*/
 }
-.nextsection li, .advantages li {
+.nextdiv li, .advantages li {
 	font-family:'Raleway', sans-serif;
 	text-align:justify;
 	margin:0.5% 0 0 0;
@@ -598,7 +598,7 @@ footer p {
 	margin:0;
 }
 @media all and (max-width:991px) {
-	.nextsection {
+	.nextdiv {
 		display:block;
 	}
 	.carousel {

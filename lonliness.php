@@ -3,7 +3,6 @@
 	<head>
 	<title>Lonliness & Isolation</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -23,30 +22,30 @@
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>Lonliness &amp; Isolation</h1>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What is lonliness?</h2>
 						<p>As social beings, most of us feel the need for rewarding social contact and relationships. One common definition of loneliness is that it is the feeling we get when our need for this type of contact is not met. However, loneliness is not the same as being alone. 
 						You might choose to be alone and live happily without much contact with other people. Or you may have lots of social contact, or be in a relationship or part of a family and still feel lonely.</p>
 						<p>Loneliness is not feeling part of the world. You might be surrounded by loads of people but... you are [still] lonely. Loneliness can have a significant impact on your mental health. 
 						It can contribute to mental health problems, such as anxiety and depression. Having a mental health problem can also make you feel lonely. For example, your condition may mean that you find social contact difficult or that you find it hard to maintain friendships, or you may feel isolated because of stigma and discrimination.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What makes people lonely?<b class="pull-right">(1)</b></h2>
 						<p>Loneliness has many different causes and affects people differently. Often people feel lonely because of their personal circumstances. But sometimes loneliness is a deeper, more constant feeling that comes from within.</p>
 						<h3>Personal circumstances</h3>
 						<p>Certain lifestyles and the stresses of daily life can make some people socially isolated and vulnerable to loneliness. There are many situations that might make you feel isolated or lonely.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What makes people lonely?<b class="pull-right">(2)</b></h2>
 						<h3>For example, if you:</h3>
 						<ul>
@@ -61,26 +60,26 @@
 							<li>Experience discrimination and stigma – for example, because of a disability or long-term health condition, or your gender, race or sexuality.</li>
 							<li>Have experienced sexual or physical abuse – you may find it hard to form close relationships with other people.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What makes people lonely?<b class="pull-right">(3)</b></h2>
 						<h3>Internal feelings of loneliness</h3>
 						<p>Some people experience deep and constant feelings of loneliness that come from within and do not disappear, regardless of their social situation or how many friends they have. There are many reasons people experience this kind of loneliness.
 						You might feel unable to like yourself or to be liked by others, or you may lack self-confidence. This may come from having been unloved as a child so that, as an adult, you continue to feel unlovable in all relationships. </p>
 						<p>Or sometimes, consciously or unconsciously, people isolate themselves within their relationships because they are afraid of being hurt. If you experience this deeper type of loneliness, you may try to avoid being on your own and spend a lot of time socialising.
 						Or you may react in the opposite way, hiding away on your own so you don't have to face a world of people you feel unconnected to. You may also develop unhelpful habits, such as using alcohol or drugs, to escape your feelings of loneliness or to face social situations that you can’t avoid</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Take the first step today get in touch</h2>
 						<p>Counselling can be very helpful for most people with low mood and isolation. It allows a person to clear out the cobwebs and release their inhibitions step by step. to feel better about yourself and recognise your good qualities.
 						Working with an online counsellor is the best way to do this. If you would like to improve your outlook on life and explore ways of getting out there, then on line therapy really does work and the benefits last a life time. Invest in a better future for yourself now, you are worth it!</p>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

@@ -4,18 +4,13 @@
 /* --- Button to toggle social bar --- */
 
 #hide {
-	left: 0;
-	position: fixed;
-	top: 60.68%;
-	z-index:3;
-	list-style:none;
 	border:none;
 	background:#6e6e6e;
 	color:white;
 	padding:0;
 	width:50px;
 	height:50px;
-	font-size:2rem;
+	font-size:24px;
 	transition: width ease-in 0.15s;
 }
 #hide, #hide.active, #hide.focus {
@@ -24,46 +19,13 @@
 #hide:hover {
 	width:55px;
 }
-#hide:hover span {
-	left: 120%;
-	opacity: 1;
-}
-#hide span {
-	font: 12px "Open Sans", sans-serif;
-	text-transform: uppercase;
-	border-radius: 3px;
-	line-height: 24px;
-	left: -100%;
-	margin-top: -16px;
-	opacity: 0;
-	padding: 4px 8px;
-	position: absolute;
-	transition: opacity .3s, left .4s;
-	top: 50%;
-	z-index: -1;
-	background:#6e6e6e;
-}
-#hide span:before {
-	content: "";
-	display: block;
-	height: 8px;
-	width: 8px;
-	left: -4px;
-	margin-top: -4px;
-	position: absolute;
-	top: 50%;
-	transform: rotate(45deg);
-}
-
-/* --- Social bar ---*/
-
 [class^="entypo-"]:before {
 	font-family: 'entypo', sans-serif;
 }
 #social-sidebar {
 	left: 0;
 	position: fixed;
-	top: 39.5%;
+	top: 43%;
 	margin:0;
 	z-index:3;
 	list-style:none;
@@ -129,9 +91,6 @@
 .entypo-mail {
 	background: #E34429;	
 }
-.entypo-plus {
-	background: #8DC5F2;	
-}
 #social-sidebar a[class*="twitter"]:hover,
 #social-sidebar a[class*="twitter"] span,
 #social-sidebar a[class*="twitter"] span:before {background: #00aced;}
@@ -152,27 +111,9 @@
 #social-sidebar a[class*="plus"] span,
 #social-sidebar a[class*="plus"] span:before {background: #8DC5F2;}
 
-@media all and (max-width:375px) {
+@media all and (max-width:414px) {
 	#social-sidebar {
 		display:none;
 	}
-	#social-sidebar a:hover {
-		width: 50px;  	
-	}
-	#social-sidebar a:hover span {
-		left: -100%;
-		opacity: 0;
-	}
-	#hide {
-		top: 74.73%;
-		height:25px;
-		font-size:1.5rem;
-	}
-	#hide:hover {
-		width:50px;
-}
-	#hide:hover span {
-		left: -100%;
-		opacity: 0;
-	}
+	
 }

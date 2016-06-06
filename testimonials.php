@@ -3,7 +3,6 @@
 	<head>
 	<title>Testimonials</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -20,12 +19,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-			<?php
+	<?php
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row testimonials">
-					<section class="col-sm-12 col-md-10 col-md-offset-1">
+				<div class="row testimonials">
+					<div class="col-sm-12 col-md-10 col-md-offset-1">
 						<h1>Testimonials left by previous clients</h1>
 						<ul>
 							<li>
@@ -59,9 +58,9 @@
 								</a>
 							</li>
 						</ul>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>

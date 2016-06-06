@@ -3,7 +3,6 @@
 	<head>
 	<title>Post Traumatic Stress Disorder</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="CSS/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -19,27 +18,27 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-			<?php
+	<?php
 	include('include/nav.html');
 	include('include/socialcons.html');
 	?>
-				<section class="row how-intro">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<div class="row how-intro">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h1>PTSD (Post Traumatic Stress Disorder)</h1>
 						<p></p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What is PTSD?<b class="pull-right">(1)</b></h2>
 						<p>​If you are involved in, or witness a traumatic event, it is common to experience upsetting, distressing or confusing feelings afterwards. The feelings of distress may not emerge straight away – you may just feel emotionally numb at first. 
 						After a while you may develop emotional and physical reactions, such as feeling easily upset or not being able to sleep.</p>
 						<p>This is understandable, and many people find that these symptoms disappear in a relatively short period of time. But if your problems last for longer than a month, or are very extreme, you may be given a diagnosis of post-traumatic stress disorder (PTSD).</p>
 						<p>There’s no time limit on distress, and some people may not develop post-traumatic symptoms until many years after the event. Additionally, not everyone who has experienced a traumatic event develops PTSD.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>What is PTSD?<b class="pull-right">(2)</b></h2>
 						<h3>Other terms for PTSD</h3>
 						<p>The diagnosis ‘PTSD’ was first used by veterans of the Vietnam War, but the problem has existed for a lot longer and has had a variety of names, including:</p>
@@ -51,10 +50,10 @@
 							<li>Post-traumatic stress syndrome (PTSS)</li>
 						</ul>
 						<p>Today, the term PTSD can be used to describe the psychological problems resulting from any traumatic event.</p>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>​What are the symptoms?<b class="pull-right">(1)</b></h2>
 						<p>The symptoms of PTSD can vary from person to person, although you may experience some of the following.</p>
 						<h3>Reliving aspects of the trauma:</h3>
@@ -65,10 +64,10 @@
 							<li>Intense distress at real or symbolic reminders of the trauma.</li>
 							<li>Physical sensations, such as pain, sweating, nausea or trembling..</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>​What are the symptoms?<b class="pull-right">(2)</b></h2>
 						<h3>Alertness or feeling on edge:</h3>
 						<ul>
@@ -81,10 +80,10 @@
 							<li>Being easily startled.</li>
 							<li>Self-destructive behaviour or recklessness..</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>​What are the symptoms?<b class="pull-right">(3)</b></h2>
 						<h3>Avoiding feelings or memories:</h3>
 						<ul>
@@ -95,10 +94,10 @@
 							<li>Being unable to express affection.</li>
 							<li>Using alcohol or drugs to avoid memories.​</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>​What are the symptoms?<b class="pull-right">(4)</b></h2>
 						<h3>​​You may also develop other mental health problems, such as:</h3>
 						<ul>
@@ -108,10 +107,10 @@
 							<li>A dissociative disorder.</li>
 							<li>Suicidal feelings.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>​​What causes PTSD?</h2>
 						<p>The situations we find traumatic can vary from person to person and different events can lead to PTSD. It may be that your responses have been bottled up for a long time after the traumatic event has passed. 
 						Your problems may only emerge months or sometimes years after a traumatic experience, affecting your ability to lead your life as you’d like to.</p>
@@ -131,15 +130,15 @@
 						</ul>
 						<p>​After a traumatic event you may feel numb, dazed and disorientated. Many people find it hard to accept what has happened to them and you may behave as though nothing bad has happened. 
 						This response may allow you time away from the trauma and you may subconsciously be beginning to process what you have been through. When you feel ready, you may find the following ideas helpful.</p>
-					</section>
-				</section>
-				<section class="row how-2">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-2">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Talk to someone close to you</h2>
 						<p>Talking about your feelings, when you feel ready, may be a good way of coming to terms with the experience. You may turn to friends, relatives and colleagues, talk to me a professional counsellor -therapist 
 						<strong>you</strong> can decide when you want to talk about what <strong>you</strong> have been been through.</p>
 						<h3>How can friends and family help?</h3>
-						<p>This section is for friends or family who wish to support someone who has PTSD. #If you are a work colleague of someone who has PTSD, this section may also be useful for you.</p>
+						<p>This div is for friends or family who wish to support someone who has PTSD. #If you are a work colleague of someone who has PTSD, this div may also be useful for you.</p>
 						<h3>Listen</h3>
 						<p>Social support is really important in helping someone with PTSD seek help and recover.</p>
 						<h3>You can help by:</h3>
@@ -149,10 +148,10 @@
 							<li>Allowing them to be upset.</li>
 							<li>Not judging them.</li>
 						</ul>
-					</section>
-				</section>
-				<section class="row how-1">
-					<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					</div>
+				</div>
+				<div class="row how-1">
+					<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 						<h2>Look out for warning signs</h2>
 						<h3>You might see a change in the behaviour or mood of the person you want to support. Some of these changes might include:</h3>
 						<ul>
@@ -163,9 +162,9 @@
 						<p>If you notice a change in the behaviour of someone close to you, you could ask them how they feel. If they are going through a difficult time, this might encourage them to seek help.</p>
 						<h3>Help them seek support</h3>
 						<p>If they want you to, you could help your friend or family member seek support. ​This could start with you exploring sources of support together including my page.</p>
-					</section>
-				</section>
-			</section>
+					</div>
+				</div>
+			</div>
 	<?php
 	include('include/footer.html');
 	?>
