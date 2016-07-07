@@ -5,7 +5,11 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-1">
+		<div class="row content-intro">
+			<h1>Infertility Issues</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How does infertility affect us?<b class="pull-right">(1)</b></h2>
 				<h3> Life can seem very lonely and isolating when faced with the Fertility / Infertility Journey.</h3>
@@ -15,7 +19,7 @@ include ('include/nav.html');
 					Women can feel less feminine and men can feel less masculine in the face of infertility. Infertility can also put stress on your relationship, with studies showing that couples dealing with infertility are more likely to feel unhappy with themselves and their marriages.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How does infertility affect us?<b class="pull-right">(2)</b></h2>
 				<p>It is so important to express those feelings of sadness, loss and anger and also to have good support from people around you who understand your position.
@@ -27,7 +31,7 @@ include ('include/nav.html');
 				<h3>Or is it time to start thinking of other ways to start a family?</h3>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>So what is infertility?<b class="pull-right">(1)</b></h2>
 				<h3>Infertility by definition, is a difficulty in conceiving despite having regular unprotected sex.</h3>
@@ -37,7 +41,7 @@ include ('include/nav.html');
 					However, whilst the number of individuals who experience problems is high, only 5% of the above figure are actually infertile.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>So what is infertility?<b class="pull-right">(2)</b></h2>
 				<h3>Statistics show that for every 100 couples attempting to fall pregnant naturally by having regular unprotected sex:</h3>
@@ -51,7 +55,7 @@ include ('include/nav.html');
 				<p>Although the statistics are encouraging, and increasingly better investigations and treatment mean that many individuals are able to overcome their fertility issues, for others, infertility often leads to isolation, loneliness and unfortunately a breakdown in relationships.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Infertility causes<b class="pull-right">(1)</b></h2>
 				<p>There is no one definitive factor which causes infertility. According to the NHS, approximately one third of fertility problems are due to issues with the female, one third are down to problems with the male, and in up to 23% of circumstances doctors are unable to pinpoint a cause.</p>
@@ -60,7 +64,7 @@ include ('include/nav.html');
 					Other possible causes of infertility in women include those listed below.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Infertility causes<b class="pull-right">(2)</b></h2>
 				<h3>Problems with the womb or fallopian tubes</h3>
@@ -69,7 +73,7 @@ include ('include/nav.html');
 					Damage to the fallopian tubes or the womb can be caused by a number of factors. For example, pelvic surgery can sometimes scar the fallopian tubes, whilst cervical surgery can result in a shortening of the cervix (neck of the womb).</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Infertility causes<b class="pull-right">(3)</b></h2>
 				<h3>PID (Pelvic inflammatory disease)</h3>
@@ -78,7 +82,7 @@ include ('include/nav.html');
 				<p>Endometriosis is a condition in which minute pieces of the womb lining begin to grow in other places, such as in the ovaries for example. The growth of this sticky tissue or cysts can lead to blockages and misshaping of the pelvis and can also distort the way in which the follicle releases the eggs</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Male Infertility<b class="pull-right">(1)</b></h2>
 				<p>For men, the most common cause of infertility is abnormal semen, accounting for 75% of all male infertility cases. There are a number of explanations for abnormal male semen, some of which can be found listed below:</p>
@@ -90,7 +94,7 @@ include ('include/nav.html');
 				<p>In some cases, sperm may be an abnormal shape which makes it difficult for them to swim to the egg and fertilise it.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Male Infertility<b class="pull-right">(2)</b></h2>
 				<p>Other causes of male infertility include:</p>
@@ -103,7 +107,7 @@ include ('include/nav.html');
 				<p>Is when ejaculation happens too fast. This is a relatively common condition which in many cases may not be so premature as to prevent conception. However, in cases where a man ejaculates before enough semen is deposited into the vagina, the migration of sperm to the fallopian tubes may be difficult.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Factors that affect both sexes<b class="pull-right">(1)</b></h2>
 				<h3>Age</h3>
@@ -112,7 +116,7 @@ include ('include/nav.html');
 					Whilst fewer statistics exist with regards to male age and fertility, it is thought that men over the age of 35 are half as likely to achieve conception in comparison to men younger than 25.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Factors that affect both sexes<b class="pull-right">(2)</b></h2>
 				<h3>Stress</h3>
@@ -124,7 +128,7 @@ include ('include/nav.html');
 				<p>Being outside of a healthy weight range can seriously impact fertility. Women who are overweight or severely underweight for example, will often find that their ovulation is effected, or in some cases it may stop entirely.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Diagnosing Infertility</h2>
 				<p>Fertility testing and investigation can be a long and drawn out process from start to finish, so if you have reason to be concerned about conception then it is advisable for you to book an appointment with your GP as soon as possible.
@@ -134,7 +138,7 @@ include ('include/nav.html');
 					Your GP will also ask you about smoking, being overweight or underweight, how much alcohol you drink and whether you take recreational drugs or have excessive stress in your life.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Infertility Testing (The Next Steps)</h2>
 				<h3>The Doctor may also conduct a physical examination or refer you for further tests.</h3>
@@ -144,7 +148,7 @@ include ('include/nav.html');
 				<h3>For men, a semen analysis and chlamydia test can be organised.</h3>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>When is the right time to seek help?</h2>
 				<p>For most couples ‘How long will it take to fall pregnant’ is one of the first questions they ask when they begin to actively start Starting a family. Unfortunately there is no set answer to that question, nor is there a definite line after which infertility is declared.
@@ -153,7 +157,7 @@ include ('include/nav.html');
 					The GP can check for common causes of fertility problems and will also be able to suggest treatments and lifestyle changes that could help.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Infertility Types &amp; Treatment</h2>
 				<h3>There are two types of infertility:</h3>

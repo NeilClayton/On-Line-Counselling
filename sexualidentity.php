@@ -5,19 +5,20 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Sexual Identity &amp; Transgender Support</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Sexual Identity</h2>
 				<p>Part of your sexual identity might involve working out if you are attracted to boys, girls, or both. </p>
 				<p>For people who do identify as gay, bisexual, lesbian or transgender it may help them to have a voice, pride and a sense of validation or belonging, having worked through the feelings of feeling different, it can be very powerful for people who have suppressed or hidden parts of themselves to suddenly fit in with ever growing member of the wider gay community.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Sexuality Counselling – What is it?</h2>
 				<h3>Whilst exploring our sexuality and coming to terms with it ourselves, we may experience some of the following feelings if we do not have supportive friends or family:</h3>
@@ -31,14 +32,14 @@ include ('include/nav.html');
 				<br><p>​​Remember, sex is only a small part of sexuality, it is also about love and who we are as people. It can be private, just the same as it is for anyone else.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What does Transgender mean?</h2>
 				<p>Transgender is a word which describes people who feel the sex they have been born and raised as does not match how they feel inside. When we are born people decide our gender for us.
 					This means they decide whether we are a boy or a girl, usually by looking at our bodies and deciding if we have male or female sex organs. Some people feel unhappy with the gender they are brought up as. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>This can include:</h2>
 				<p>Feeling that you are a boy when you have been brought up as a girl, or the other way round. Wishing you could change your body to look more like the way you feel inside.

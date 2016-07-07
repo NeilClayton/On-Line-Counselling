@@ -5,15 +5,16 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Addiction</h1>
-				<p>​Addiction can take many forms, Alcohol, Gambling, Shopping, Sex and Exercise are just a few examples of issues which can become an addiction. Any addiction usually has an underlying reason, specialised addiction counselling is the most effective way of getting the help required.</p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Addiction and how does addiction counselling help?</h2>
+				<p>​Addiction can take many forms, Alcohol, Gambling, Shopping, Sex and Exercise are just a few examples of issues which can become an addiction. Any addiction usually has an underlying reason, specialised addiction counselling is the most effective way of getting the help required.</p>
 				<p>An addiction is a regular compulsion, some specific activity which is usually damaging to our life balance and well-being, often we may not realise the behaviour or addiction is causing a problem until it is serious.
 					It is often a friend or family member that observes a problem long before the person with the addiction does. Addiction counselling helps and it’s important an addiction counsellor with specific skills is sought.</p>
 				<p class="info">The term addiction is often used more commonly for drug and alcohol misuse but it is applied to other habits such as gambling, pornography, social network, sex or eating disorders. </p>
@@ -23,7 +24,7 @@ include ('include/nav.html');
 					This is especially the case with alcohol addiction. Alcohol addiction counselling is very effective.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Alcohol &amp; Drugs</h2>
 				<p>Alcohol & Drugs can be effective in numbing pain, both physical and emotional. Many people start using alcohol and or drugs as a strategy for blocking out pain and whist the strategy may block out the underlying issue, be it emotional or physical pain, it also brings it’s own unique problems.
@@ -31,13 +32,13 @@ include ('include/nav.html');
 					It is vital that specific addiction counselling is sought.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Physical Addiction</h2>
 				<p>Physical addiction on a substance is defined by the appearance of characteristic withdrawal symptoms when the substance or behaviour is suddenly stopped. While Opioids, Benzodiazepines, Barbiturates, Alcohol and Nicotine are all well known for their ability to Induce physical dependence, other categories of substances share this property and are not considered addictive.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Smoking (Nicotine addiction)</h2>
 				<p>Smokers report that a cigarette can be pleasurable, but there is a medical consensus that the user is likely fulfilling his/her physical addiction and, therefore, is achieving pleasurable feelings relative to his/her previous state of physical withdrawal.
@@ -45,14 +46,14 @@ include ('include/nav.html');
 				<p>Addiction counselling helps to address the underlying life issues which can lead to addictions. An experienced counsellor (therapist) will be able to offer safe and tested advice and addiction counselling for all addictions.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Emotional addiction</h2>
 				<p>Psychological addiction is a dependency of the mind, and leads to psychological withdrawal symptoms (such as cravings, irritability, insomnia, depression, anorexia etc).
 					Addiction can in theory be derived from any rewarding behaviour and is believed to be strongly associated with the dopaminergic system of the brain’s reward system (as in the case of cocaine and amphetamines). </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Sex &amp; Porn Addiction issues<b class="pull-right">(1)</b></h2>
 				<p>Worried you have a sex addiction? Whether you feel you are addicted to porn, or you feel you have an unhealthy sex addiction or a problematic sex drive (very low or very high).
@@ -63,7 +64,7 @@ include ('include/nav.html');
 				<p>Cognitive Behaviour Therapy (CBT) is the model which most sex addiction counsellors and therapists use, it focusses on thoughts and behaviours, whilst it is also important to explore any historic issues which can affect our individual sex addiction or preferences.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Sex &amp; Porn Addiction issues<b class="pull-right">(2)</b></h2>
 				<p>If you are in a relationship which is suffering because of your sexual identity or sexual preferences or your interests, or maybe your interests differ to your partner’s ideas of what your sexual relationship should entail, then talk to me and together we will find a way through it.</p>
@@ -71,7 +72,7 @@ include ('include/nav.html');
 					Whatever you’re worries, rest assured that you can chat in complete confidence and that online counselling offers the safest and most confidential service available for people with a sex addiction.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Some of the benefits of Online Sex Addiction Counselling include:</h2>
 				<ul>
@@ -86,7 +87,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Some common sexual issues</h2>
 				<ul>
@@ -100,14 +101,14 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<p>If you are worried about any aspect of your sex addiction, contact me today and lets work through it anonymously and in a supportive manner. I am here to help you with any sex addiction problem.</p>
 				<h3>As demonstrated addiction can present in several forms</h3>
 				<h3>If your own personal addiction or concern is not included on my pages please message me I can help. Email on-line-counselling@outlook.com</h3>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<p>It may be helpful to think of an addiction as a learned behaviour and it may have been learned over a long period of time, but it can be unlearned and changed too. Many people successfully kick destructive addictions or habits and live a more fulfilling life with the help of an addiction counsellor.</p>
 				<p>I am an experienced, professional addiction counsellor, with over 13 years’ experience working as a counsellor

@@ -6,12 +6,13 @@ include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
 
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Binge-Eating Disorder</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Binge-Eating Disorder?<b class="pull-right">(1)</b></h2>
 				<p>Binge-eating disorder is a form of compulsive overeating that is effecting a growing number of people globally. Sufferers feel a compulsion to consume large quantities of food on a regular basis.
@@ -21,14 +22,14 @@ include ('include/nav.html');
 					I will not judge you, I am here for you. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Binge-Eating Disorder?<b class="pull-right">(2)</b></h2>
 				<p>Although only recently recognised as a separate condition, binge-eating disorder is considered the most common eating disorder. Unlike other eating disorders such as anorexia, it equally affects men and women of all ages.
 					It can, tend to be more common in adults than young people, and a particularly high percentage of adults in their 40s and 50s have the disorder. </p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Causes of binge-eating disorders<b class="pull-right">(1)</b></h2>
 				<h3>Stress</h3>
@@ -40,7 +41,7 @@ include ('include/nav.html');
 					However depression can also be an effect of binge-eating disorder as well as a cause.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Causes of binge-eating disorders<b class="pull-right">(2)</b></h2>
 				<h3>Pressure to diet </h3>
@@ -49,7 +50,7 @@ include ('include/nav.html');
 					Children who are exposed to critical comments about their bodies and/or weight may also be more susceptible to developing the disorder.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Causes of binge-eating disorders<b class="pull-right">(3)</b></h2>
 				<h3>Behavioural symptoms of binge-eating disorder:</h3>
@@ -63,7 +64,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Causes of binge-eating disorders<b class="pull-right">(4)</b></h2>
 				<h3>Emotional symptoms of binge-eating disorder:</h3>
@@ -76,7 +77,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Previous experience with Binge-Eating</h2>
 				<p>I have worked in the field of eating disorders counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with food and the subsequent behaviours such as anorexia and bulimia which can affect people’s lives, focusing on the underlying life issues which contribute to food related problems

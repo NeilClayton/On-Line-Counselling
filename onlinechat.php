@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 				<h1>Connect to online chat</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1 skype">
+		<div class="row content-1 skype">
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 				<h2>How to connect</h2>
 				<p>There are two ways in which you may communicate with me:</p>
@@ -22,7 +23,7 @@ include ('include/nav.html');
 				<p>I will reply to all emails within 12 hours of your payment being received.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 				<h2>How to pay</h2>
 				<p>Payments will be requested by the official PayPal website only. This offers you complete payment security and online protection. (You do not need to have a PayPal account, you can simply pay with your credit or debit card through PayPal ). Click <a href="fees.html">here</a> to see the fees and pay.</p>

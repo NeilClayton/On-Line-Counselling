@@ -5,13 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Eating disorders</h1>
-				<p></p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is an eating disorder?</h2>
 				<p>Food and eating disorders or eating problems are caused by a deep rooted emotional feelings and self beliefs. Low self-esteem plays a part in why people use food to try to control their lives.
@@ -20,7 +20,7 @@ include ('include/nav.html');
 					I have worked with many clients and supported them to bring their illness or eating disorder under control.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling for people with an Eating Disorder<b class="pull-right">(1)</b></h2>
 				<p>Problems with food can begin when it is used to cope with those times when you are bored, anxious, angry, lonely, ashamed or sad. Food becomes a problem when it is used to help you to cope with painful situations or feelings, or to relieve stress perhaps without you even realising it.</p>
@@ -29,7 +29,7 @@ include ('include/nav.html');
 				<p>It is unlikely that an eating disorder will result from a single cause. It is much more likely to be a combination of many factors, events, feelings or pressures which lead to you feeling unable to cope.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling for people with an Eating Disorder<b class="pull-right">(2)</b></h2>
 				<h3>These can include:</h3>

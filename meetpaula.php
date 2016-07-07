@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Meet Paula</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1 how-image">
+		<div class="row content-1 how-image">
 			<div class="col-sm-4 col-sm-offset-1 col-md-2 col-md-offset-2">
 				<img src="Images/paula.jpg" width="250" height="250" alt="I'm Paula" class="img-responsive">
 			</div>
@@ -21,7 +22,7 @@ include ('include/nav.html');
 					Eventually I found the courage to talk to a counsellor, obviously confidentiality was very important to me.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Facts about me</h2>
 				<p>I am an accredited member of the BACP (British association for counselling and psychotherapy).<br>I am a registered counsellor with this governing body and a full member.
@@ -34,7 +35,7 @@ include ('include/nav.html');
 				</div>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Benefits of working with an online counsellor</h2>
 				<ul>
@@ -46,7 +47,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2> My Professional Qualifications</h2>
 				<ul>
@@ -58,7 +59,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>My Promise</h2>
 				<p>Whatever your problem is, whether its one big problem or a whole host of smaller, niggling problems, I will help you. Having someone to really listen to you helps a lot.</p>

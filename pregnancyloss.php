@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Losing Your Baby Before They Were Born</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Pregnancy Loss</h2>
 				<p>Losing a baby at any point during pregnancy can be a physically and emotionally devastating experience. It can feel like your whole world has fallen apart​
@@ -25,7 +26,7 @@ include ('include/nav.html');
 					The world can feel turned upside down.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Physical Feelings<b class="pull-right">(1)</b></h2>
 				<h3>It is also common to feel loss in physical ways.</h3>
@@ -34,7 +35,7 @@ include ('include/nav.html');
 				<p>If you haven’t been able to tell your family, friends or partner about your miscarriage – or if you don’t have a partner – then you may feel very lonely and isolated.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Physical Feelings<b class="pull-right">(2)</b></h2>
 				<h3>A particular kind of loss</h3>
@@ -42,7 +43,7 @@ include ('include/nav.html');
 					Sometimes the words ‘loss’ and ‘losing’ somehow does not feel right. You might think that ‘losing a baby’ sounds like something to be blamed for, as if you were careless. That’s certainly not what is meant when we use these words  </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How counselling helps<b class="pull-right">(1)</b></h2>
 				<p>Therapy can successfully reduce sadness, depression and anxiety and help you resolve your grief faster.</p>
@@ -58,7 +59,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How counselling helps<b class="pull-right">(2)</b></h2>
 				<p>As a counsellor specialising in reproductive and pregnancy related issues, I know how to help support you through your sadness and other intense feelings.

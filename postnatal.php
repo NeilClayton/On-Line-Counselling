@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>PND (Post Natal Depression)</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Post Natal Depression</h2>
 				<p>Postnatal depression (PND) is a common problem. It was thought that about one in ten mums suffers from PND but many recent studies have indicated that it may affect  as many as one in five.
@@ -18,7 +19,7 @@ include ('include/nav.html');
 				<p>However, whereas baby blues can resolve quite quickly, PND is unlikely to go away without the right support and treatment. Postnatal depression can include difficulties in bonding with your baby but this is absolutely not always the case.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms<b class="pull-right">(1)</b></h2>
 				<h3>The experience of PND can vary a great deal but will include some of the feelings listed below.</h3>
@@ -35,7 +36,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms<b class="pull-right">(2)</b></h2>
 				<h3>The counselling I offer can help if you are experiencing any of the following:</h3>
@@ -52,7 +53,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>I offer Counselling</h2>
 				<p>I also offer counselling for those feeling depressed during pregnancy and for those concerned about their risk of developing PND. I have helped many new parents through this transition and have witnessed the positive changes and the growing sense of confidence that having our support can bring about.

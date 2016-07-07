@@ -5,19 +5,20 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Bulimia Nervosa</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Bulimia Nervosa?</h2>
 				<p>Bulimia Nervosa is a condition in which a person has problems in accepting what is considered by most to be normal weight. Binge eating or binging followed by self-induced vomiting (or throwing up) after eating may also be a characteristic of bulimic behaviours. </p>
 				<p>Some people may also use laxatives or other medication to get food out of their bodies. People with bulimia often have a chaotic lifestyle, not only in terms of eating but also in terms of other aspects of their life. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Bulimia Nervosa<b class="pull-right">(1)</b></h2>
 				<p>The following symptoms of bulimia highlight how the condition can greatly impact the health and well-being of an individual both mentally and physically.</p>
@@ -39,7 +40,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Bulimia Nervosa<b class="pull-right">(2)</b></h2>
 				<h3>Psychological symptoms of bulimia</h3>
@@ -54,7 +55,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How would I know if I or a relative or friend had Bulimia?</h2>
 				<p>Sufferers from bulimia often feel ashamed or guilty, and may have particular difficulty talking to others about themselves or seeking help. You may notice someone throwing up, vomiting, binge eating or unusual eating habits.

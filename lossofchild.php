@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Losing a Child At Any Age Can Be Devastating</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Losing a child<b class="pull-right">(1)</b></h2>
 				<p>It is a given in today’s world that parents die before their children, so the grief that comes from the death of a child is like no other. This loss can be accompanied by overwhelming feelings of dread and disbelief, and a parent can take a long time to accept it.
@@ -21,7 +22,7 @@ include ('include/nav.html');
 					These anniversaries can become easier to cope with as time passes.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Losing a child<b class="pull-right">(2)</b></h2>
 				<p>The other children may feel lost and confused, not knowing how to react to this unfamiliar situation. They may feel excluded as all the energy of the grown up's is directed towards their bereavement.
@@ -32,7 +33,7 @@ include ('include/nav.html');
 					They lose a future which included a child they nurtured, cared for, loved and who has now been cruelly taken away from them. With younger children the milestones are different from those of a teenager, or a young adult, but the pain surrounding shattered dreams is no less whatever the age.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Losing a child<b class="pull-right">(3)</b></h2>
 				<h3>How you might be feeling</h3>
@@ -50,7 +51,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Losing a child<b class="pull-right">(4)</b></h2>
 				<h3>Bereavement counselling is designed to help people cope more effectively with the death of a child. Specifically, bereavement counselling can:</h3>
@@ -63,7 +64,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Bereavement counselling</h2>
 				<p>You will never stop missing the child you lost, but with enough time and the right support, life can be pieced back together. Bereavement counselling aims to get you to the point where you can function normally - however long it takes.

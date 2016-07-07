@@ -5,13 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Body Dysmorphic Disorder</h1>
-				<p></p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Body Dysmorphic Disorder?<b class="pull-right">(1)</b></h2>
 				<p>Almost everyone has felt unhappy about the way they look at some point in their life, however these feelings usually come and go and get forgotten once we accept our appearance and grow into our own.</p>
@@ -19,7 +19,7 @@ include ('include/nav.html');
 					Even when friends and family members try to convince the person that they look great, the negative thoughts remain overwhelming.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Body Dysmorphic Disorder?<b class="pull-right">(2)</b></h2>
 				<h3>Who does it affect?</h3>
@@ -29,7 +29,7 @@ include ('include/nav.html');
 				<p>In some cases those with an eating disorder can develop body dysmorphic disorder and vice-versa, however the two are not the same condition. Past experience could also contribute to the condition, especially if the person was bullied or teased about an aspect of their appearance when they were younger.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Dysmorphic Disorder<b class="pull-right">(1)</b></h2>
 				<p>Body dysmorphic disorder is similar to OCD as it causes sufferers to obsess and pick up routines or compulsions. There is usually a particular area of concern for the sufferer:</p>
@@ -42,7 +42,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Dysmorphic Disorder<b class="pull-right">(2)</b></h2>
 				<h3>Body dysmorphic symptoms vary from person to person and may include the following:</h3>
@@ -56,7 +56,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Dysmorphic Disorder<b class="pull-right">(3)</b></h2>
 				<h3>Those with the disorder are also likely to develop obsessive behaviours and compulsions, which may include the following:</h3>
@@ -70,7 +70,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Previous experience with Body Dismorphic Disorder</h2>
 				<p>I am an experienced, professional online counsellor, with over 13 years’ experience working as a counsellor (therapist) offering confidential, affordable counselling online to clients anywhere in the world.

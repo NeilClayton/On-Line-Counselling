@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Bereavement, Grief & Loss of a relative</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Bereavement?</h2>
 				<p>Bereavement is a distressing but common experience. Sooner or later most of us will suffer the death or loss of someone we love. Yet in our everyday lives we think and talk about death and loss very little.</p>
@@ -18,7 +19,7 @@ include ('include/nav.html');
 					In spite of this we have no choice but to cope when we are finally faced with the death or the passing of someone we love. Bereavement counselling can help to move you through the cycles of grief, whilst being supported by a caring professional.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The grieving cycle<b class="pull-right">(1)</b></h2>
 				<p>Bereavement is not just one feeling, but a whole host of feelings and emotions, which take a while to get through and which cannot be hurried. Although we are all individuals, the order in which we experience these feelings can be just as different. </p>
@@ -26,7 +27,7 @@ include ('include/nav.html');
 					They may feel like this even if the death has been expected. This sense of emotional numbness can be a help in getting through all the important practical arrangements that have to be made, such as getting in touch with relatives and organising the funeral, burial, cremation or other tradition, however, this feeling of unreality may become a problem if it goes on too long, if it feels that way, you could consider bereavement counselling even in the early stages of grieving.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The grieving cycle<b class="pull-right">(2)</b></h2>
 				<p>​Soon though, this numbness can disappear and may be replaced by a dreadful sense of agitation, of pining or yearning for the dead person. There is a feeling of wanting somehow to find them, even though this is clearly impossible.
@@ -38,7 +39,7 @@ include ('include/nav.html');
 				<h3>Bereavement counselling can help you work through these complex feelings.</h3>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The stages of grieving<b class="pull-right">(1)</b></h2>
 				<h3>Denial</h3>
@@ -49,7 +50,7 @@ include ('include/nav.html');
 					Anger linked bereavement counselling is effective and will help you to move on through the stages of grief.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The stages of grieving<b class="pull-right">(2)</b></h2>
 				<h3>Depression</h3>
@@ -60,7 +61,7 @@ include ('include/nav.html');
 					Whilst the dying person may have accepted their passing, their loved ones may need a lot of support, bereavement counselling offers this suppor</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How bereavement may feel<b class="pull-right">(1)</b></h2>
 				<p>A state of agitation, or numbness but it soon can be followed by times of quiet sadness. Stress and or depression, withdrawal and silence. These sudden changes of emotion can be confusing to friends or relatives but are just part of the normal way of passing through the different stages of grief.
@@ -68,7 +69,7 @@ include ('include/nav.html');
 				<p>At this stage it may be tempting to keep away from other people who do not fully understand or share the grief. However, avoiding others can store up trouble for the future and it is usually best to try to start to get back into your routine</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How bereavement may feel<b class="pull-right">(2)</b></h2>
 				<p>During this time, it may appear to others as though the bereaved person is spending a lot of time just sitting, doing nothing. In fact, they are usually thinking about the person they have lost, going over again and again both the good times and the bad times they had together.
@@ -78,7 +79,7 @@ include ('include/nav.html');
 				<h3>Having said this, there is no ‘standard’ way of grieving. We are all individuals and have our own particular ways of grieving. Bereavement counselling is therefore personalised to your needs.</h3>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How bereavement may feel<b class="pull-right">(3)</b></h2>
 				<p>After some time it is possible to feel whole again, even though a part of you is missing. Even so, years later you may sometimes find yourself talking as though he or she were still here with you, again this is natural.

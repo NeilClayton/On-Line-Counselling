@@ -5,13 +5,17 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
+			<h1>Young people &amp; Children's support</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Young people &amp; Children's support </h1>
+				<h2>Young people &amp; Children's support</h2>
 				<p>As children grow and develop, children have to direct themselves around a difficult and ever changing world, facing challenges and pressures in numerous aspects of their lives.</p>
 			</div>
 		</div>
-		<div class="row how-1 how-3">
+		<div class="row content-1 how-3">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Young people &amp; Children's support<b class="pull-right">(1)</b></h2>
 				<h3>Family breakdown is widespread.</h3>
@@ -20,7 +24,7 @@ include ('include/nav.html');
 					Bullying on and offline is rising.</p>
 			</div>
 		</div>
-		<div class="row how-2 how-4">
+		<div class="row content-2 how-4">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Young people &amp; Children's support<b class="pull-right">(2)</b></h2>
 				<p>Increasing sexual pressures and early sexualisation throw young people into an adult world they don’t understand. Violence is rife in many communities and fear of crime a constant source of distress for thousands of young people.</p>

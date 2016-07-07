@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Bereavement, Grief & Loss of a pet</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The stages of grieving<b class="pull-right">(1)</b></h2>
 				<h3>Denial</h3>
@@ -21,7 +22,7 @@ include ('include/nav.html');
 					Anger linked bereavement counselling is effective and will help you to move on through the stages of grief.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The stages of grieving<b class="pull-right">(2)</b></h2>
 				<h3>Depression</h3>
@@ -32,7 +33,7 @@ include ('include/nav.html');
 					Whilst the dying person may have accepted their passing, their loved ones may need a lot of support, bereavement counselling offers this suppor</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Losing a pet</h2>
 				<p>When our pet and special friendship dies it can be very difficult, few people truly understand what the death of a beloved pet really means, unless they happen to be an animal lover and a pet loss counsellor.
@@ -44,7 +45,7 @@ include ('include/nav.html');
 					I have had the privilege of loving and being loved by animals all of my life and know the joys of having and the pain of losing a beloved companion. I understand what pet grief means and can help other animal lovers work through their grief in a sympathetic and empathic manner.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>My past experience</h2>
 				<p>I am an experienced, professional online counsellor, with over 13 years’ experience working as a counsellor (therapist) offering confidential, affordable counselling online to clients anywhere in the world.
