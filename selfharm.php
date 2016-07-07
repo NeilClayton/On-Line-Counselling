@@ -5,12 +5,12 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Self Harm</h1>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Why do people self harm?<b class="pull-right">(1)</b></h2>
 				<p>There are lots of reasons why people might self-harm. The need to hurt yourself usually comes from emotions that are very difficult to cope with or express .
@@ -29,7 +29,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Why do people self harm?<b class="pull-right">(2)</b></h2>
 				<p>I will not judge you or tell you to stop self harming I do understand how addictive self harming can be, and how its used as a way of coping with your thoughts and feelings but I can work with you to help you find better safer ways of coping
@@ -40,7 +40,7 @@ include ('include/nav.html');
 					Other people self-harm because of pressure in life or because they feel alone. It doesn't have to be a big thing. An argument or a situation that made them feel embarrassed or left you feeling depressed might lead to someone self-harming.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How do I tell someone I'm self-harming?</h2>
 				<p>Often it can be difficult for someone to understand why they are self-harming, so explaining it to another person can be really hard. Lots of people have said talking to someone is one of the best ways to cope with wanting to self-harm.
@@ -48,7 +48,7 @@ include ('include/nav.html');
 					It’s important to remember that you are never alone I am here to listen to you</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Why choose me as your counsellor?</h2>
 				<p>I have worked in the field of self harm counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with all types of self harm,

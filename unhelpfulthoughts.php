@@ -5,13 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Unhelpful Thinking Patterns</h1>
-				<p></p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are unhelpful thinking patterns?<b class="pull-right">(1)</b></h2>
 				<p>Our brain generates thousands of thoughts each day. Some thoughts are really useful, absolute gold, while others are unhelpful and best left to one side.</p>
@@ -19,7 +19,7 @@ include ('include/nav.html');
 					Listed below are some unhelpful patterns thinking to watch out for, plus ways to disengage and get you back on track. By naming these thought patterns for what they are, you can step back from them and make a decision whether to put more energy into them — or not.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are unhelpful thinking patterns?<b class="pull-right">(2)</b></h2>
 				<h3>Stewing or Contemplating</h3>
@@ -32,7 +32,7 @@ include ('include/nav.html');
 				<p>All or nothing thinking, or black or white thinking, is where things are either all good OR all bad. It’s either one extreme or the other; there are no grey areas.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are unhelpful thinking patterns?<b class="pull-right">(3)</b></h2>
 				<h3>Shoulds or Musts</h3>
@@ -47,7 +47,7 @@ include ('include/nav.html');
 				<p>You reject positive experiences by insisting that they “don’t count”. For example, if you have a positive interaction with someone, you write it off as a one-off, or attribute it solely to the other person’s actions and not seeing your own part. Discounting the positives takes the joy out of life and makes you feel inadequate and unrewarded.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are unhelpful thinking patterns?<b class="pull-right">(4)</b></h2>
 				<h3>Forecasting</h3>

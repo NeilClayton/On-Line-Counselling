@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>For Parents </h1>
+				<h1>For Parents</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Will my child be supported by someone who is properly trained and qualified? </h2>
 				<p>The main accrediting body for counsellors is the British Association for Counselling and Psychotherapy (BACP). I am accredited by the BACP and have a full membership,
@@ -22,7 +23,7 @@ include ('include/nav.html');
 				</div>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What if my child says private things about my family?</h2>
 				<p>It is important that your child feels free to talk about experiences in the family that may be troubling or confusing. It matters that you give approval to your child to talk to a counsellor.
@@ -30,7 +31,7 @@ include ('include/nav.html');
 				<h3>The counsellor is not there to judge you or anyone else in your family, their sole purpose is to help your child manage their problems and try to resolve them in a positive way.</h3>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Can I ask my child about counselling sessions?</h2>
 				<p>The counselling relationship is very private and personal, and each child will respond differently. Some children may wish to talk to their parents about  sessions, while others, especially teenagers, may wish to keep the content of the sessions to themselves.
@@ -38,14 +39,14 @@ include ('include/nav.html');
 					Showing sensitivity to their distress, while also respecting their right to privacy, is a difficult but important balance for parents to achieve.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Can I ask my child's counsellor how the sessions are going?</h2>
 				<p>It is natural that you will want to know how your child is getting on in in general their counselling. Further details will only be shared with your child’s consent and knowledge of what is to be discussed.
 					It is important to remember the counsellor will have agreed to a confidential relationship with your child and has a duty to stick to this. The only very rare exception to this would be if the counsellor thought your child was at serious risk of harming themselves or others.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What I can help your child with</h2>
 				<p>A few things I can help with but if your issue or problem is not listed here please message me and I will do my best to support you and your child.</p>

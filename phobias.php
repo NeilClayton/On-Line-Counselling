@@ -5,20 +5,24 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
+			<h1>Phobias &amp; Fears</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Phobias &amp; Fears</h1>
+				<h2>Phobias &amp; Fears</h2>
 				<p>A phobia can be an inconvenience or it can take over our lives depending on the fear. Few people really understand how living with a phobia can impact on our lives. Online counselling is very effective.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is a phobia?</h2>
 				<p>According to the Psychiatric Association, a phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of danger or a fear of harm. For example, those suffering from Agoraphobia fear being trapped in an inescapable place or situation, an elevator lift or even their own home.
 					A phobia may have its roots in something that actually happened in the past, often in childhood, however the ongoing fear can seem quite irrational, though very real to the sufferer. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are the symptoms of a phobia?</h2>
 				<p>Phobic symptoms can occur through exposure to the fear or a situation, or sometimes simply thinking about the feared object can lead to an anxious response. Common symptoms associated with phobias include:</p>
@@ -37,7 +41,7 @@ include ('include/nav.html');
 				<p>In some cases, these symptoms can escalate into full-scale Anxiety or a Panic Attack. As a consequence of these symptoms, some individuals may isolate themselves, leading to severe difficulties in daily life. If a phobia has reached this point, immediate help should be sought.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>There are 3 types of Phobia:</h2>
 				<h3>Social phobias</h3>
@@ -48,7 +52,7 @@ include ('include/nav.html');
 				<p>Fear of a specific objects, such as a snake.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>There are four major categories of specific phobias:</h2>
 				<h3>The Natural World</h3>
@@ -61,7 +65,7 @@ include ('include/nav.html');
 				<p>Maybe a fear of bridges, leaving the home, driving, crowds or elevators/lifts.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<div class="tab-content">
 					<h2>Here are various phobias</h2>
@@ -270,7 +274,7 @@ include ('include/nav.html');
 				</div>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<p>Phobias are very common, phobias affect more than 10% of the UK population, in many cases, people are able to recognise that their fear is irrational and therefore take steps to overcome their phobia.
 					According to the diagnostic and statistical manual of mental health disorders, only about 10 percent of reported cases become life-long phobias.</p>

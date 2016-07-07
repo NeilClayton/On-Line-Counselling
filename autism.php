@@ -5,13 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Autism &amp; Asperger's</h1>
-				<p></p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How it affects people</h2>
 				<p>​People with Autism an Asperger’s can be extremely able at certain things, which require certain strengths, yet can find other things extremely difficult. For example they might have extremely advanced music skills, yet low functioning linguistic skills.
@@ -22,14 +22,14 @@ include ('include/nav.html');
 					Everyday tasks such as this can feel very tiring, which might mean that autistic people struggle with persevering at such tasks.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is the Autistic spectrum?</h2>
 				<p>Often, Autism diagnosis is described as a spectrum. People with Autism have widely varying experiences of autism, and having worked with people with Autism and Asperger’s I feel that it is not as simple as “from low to high functioning”.
 					If you mapped the experiences of every autistic person, it would look more like a constellation in the galaxy – with every star having a new set of experiences and abilities.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>My thoughts</h2>
 				<h3>A final thought when it comes to counselling and Autism and Aspregers</h3>

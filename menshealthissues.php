@@ -5,21 +5,25 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
+			<h1>Men's Health</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Men's Health</h1>
+				<h2>Men's Health</h2>
 				<p>​Libido can be a scary word for us men, erectile dysfunction and premature ejaculation are phrases we don’t want to have to deal with. Men are much less likely to seek medical advice and emotional support than women and that’s a fact.
 					Many men prefer to research their ailments and health issues online. </p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What this is about</h2>
-				<p>In this div I would like to offer information that will be helpful to men, it is not aimed at diagnosis, as only a Doctor can make a diagnosis on matters relating to medical health, but I do understand that seeking medical attention for some conditions can be difficult and embarrassing for a lot of men.</p>
+				<p>In this section I would like to offer information that will be helpful to men, it is not aimed at diagnosis, as only a Doctor can make a diagnosis on matters relating to medical health, but I do understand that seeking medical attention for some conditions can be difficult and embarrassing for a lot of men.</p>
 				<p>Online counselling service is completely confidential and because it is online, there is no possibility of embarrassment or additional stress. You can talk to a counsellor anonymously and from the comfort of your own home or work place right now.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Men's Health Issues<b class="pull-right">(1)</b></h2>
 				<h3>Myth Busting information about your manhood.</h3>
@@ -29,7 +33,7 @@ include ('include/nav.html');
 					The corpus spongiosum expands at the tip to form the head of the penis called the glans. The glans is protected by the foreskin.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Men's Health Issues<b class="pull-right">(2)</b></h2>
 				<h3>Why is my Erect Penis or Hard On bent?</h3>
@@ -37,7 +41,7 @@ include ('include/nav.html');
 					It could be condition called Peyronie’s. Bent penis's are very, very common and generally do not cause any problem with intercourse.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Erectile Dysfunction<b class="pull-right">(1)</b></h2>
 				<h3>What Is It?</h3>
@@ -48,7 +52,7 @@ include ('include/nav.html');
 					Both can result in problems with erections. Blood vessels can be damaged by hardening of the arteries (atherosclerosis) or trauma. Vascular disease is believed to be the most common medical cause of impotence.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Erectile Dysfunction<b class="pull-right">(2)</b></h2>
 				<h3>Nerve Damage (neuropathy)</h3>
@@ -59,7 +63,7 @@ include ('include/nav.html');
 					However, embarrassment or “performance anxiety” can make a physical problem worse. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Erectile Dysfunction<b class="pull-right">(3)</b></h2>
 				<h3>Medications</h3>
@@ -68,7 +72,7 @@ include ('include/nav.html');
 				<p>Abnormal levels of certain hormones, such as testosterone, thyroid hormone and a pituitary hormone known as prolactin, can interfere with erections and sex drive (libido). This is an uncommon cause of impotence.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Erectile Dysfunction<b class="pull-right">(4)</b></h2>
 				<h3>Symptoms</h3>
@@ -80,7 +84,7 @@ include ('include/nav.html');
 					Online Counselling can help to reduce the embarrassment by offering anonymity to the client. You do not even have to give your real name. The sessions are confidential and secure online. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Premature ejaculation</h2>
 				<p>This is when a man ejaculates (comes) within two minutes of penetration. It is more common amongst younger men up to the age of 35. It tends to happen because a man is very aroused.
@@ -89,7 +93,7 @@ include ('include/nav.html');
 				<p>Either just being very excited with a new partner, or an acute sensitivity of the local nervous system, which triggers orgasm too quickly.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Viagra, what’s the score?</h2>
 				<p>Tablet form work by increasing the flow of blood to the penis, giving a harder, longer lasting hard-on. Effects last around four hours.</p>
@@ -97,7 +101,7 @@ include ('include/nav.html');
 				<p>Erection drugs don’t make you horny or cause instant hard-ons. They only start working after you get turned on (aroused). Some men say their hard-ons have less feeling and that coming is more difficult, but that after they have come they can get hard again quicker.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The prostate<b class="pull-right">(1)</b></h2>
 				<h3>What is a prostate and why do men need it?</h3>
@@ -109,7 +113,7 @@ include ('include/nav.html');
 					In most cases, prostate cancer is a relatively slow-growing cancer, </p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The prostate<b class="pull-right">(2)</b></h2>
 				<h3>How curable is prostate cancer?</h3>
@@ -117,7 +121,7 @@ include ('include/nav.html');
 					As with any illness or condition, early detection offers the best chance of a successful treatment. A Prostate examination is not as bad as it can sometimes sound. </p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>The prostate<b class="pull-right">(3)</b></h2>
 				<h3>What happens during a prostate exam?</h3>

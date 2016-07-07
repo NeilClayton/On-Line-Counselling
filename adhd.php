@@ -5,13 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>ADHD (Attention Deficit/Hyperactivity Disorder)</h1>
-				<p></p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What ADHD can feel like<b class="pull-right">(1)</b></h2>
 				<p>Imagine living in a fast-moving kaleidoscope, where sounds, images, and thoughts are constantly shifting. Feeling easily bored, yet helpless to keep your mind on tasks you need to complete.
@@ -21,7 +21,7 @@ include ('include/nav.html');
 					As a result, the disorder can ruin the person's relationships with others in addition to disrupting their daily life, and weakening self-esteem.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What ADHD can feel like<b class="pull-right">(2)</b></h2>
 				<p>ADHD, once called hyperkinesia or minimal brain dysfunction, is one of the most common disorders among young people. Two to three times more boys than girls are affected.
@@ -30,7 +30,7 @@ include ('include/nav.html');
 					A variety of medications, behaviour-changing therapies, are already available to help people with ADHD focus their attention, build self-esteem, and function in new ways.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling clients with ADHD<b class="pull-right">(1)</b></h2>
 				<p>No two people with ADHD are alike each brings a unique set of characteristics and experiences that have interacted with their ADHD over the course of their lifetime.
@@ -40,7 +40,7 @@ include ('include/nav.html');
 					To be respected for their strengths as they work to cope with their weaknesses. They may benefit from developing a clearer direction and purpose in their lives. Counselling should help you in finding ways of doing what you like and minimising what you dislike.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling clients with ADHD<b class="pull-right">(2)</b></h2>
 				<p>Learning to work with the effects of medication. If you choose to use medication and it works for you, you may still need to learn how to change the way you approach life with a brain that is now working differently.
@@ -50,7 +50,7 @@ include ('include/nav.html');
 					Counselling can help these people face these issues directly and make positive change. Another important aspect of counselling is related to working out the struggles that are often created in relationships.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling clients with ADHD<b class="pull-right">(3)</b></h2>
 				<p>While partners with ADHD can be wonderfully exciting, sensitive, warm, and caring they can also be highly inconsistent, distracted, seemingly disinterested, avoidant, and sometimes struggle to communicate.</p>

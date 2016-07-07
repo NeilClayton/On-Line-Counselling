@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>OCD (Obsessive Compulsive Disorder)</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is OCD?<b class="pull-right">(1)</b></h2>
 				<p>Obsessive Compulsive Disorder or (OCD) is known as a mental illness which is usually related and associated with anxiety. People who are anxious often display repetitive actions.
@@ -19,7 +20,7 @@ include ('include/nav.html');
 					If you have had problems with anxiety for some time and you have not talked to someone about it, you may have some repetitive obsessive compulsive disorder type behaviours, even if you are not aware of them.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is OCD?<b class="pull-right">(2)</b></h2>
 				<h3>Obsession:</h3>
@@ -28,7 +29,7 @@ include ('include/nav.html');
 				<p>A mental thought which is powerful and must be acted upon. The OCD sufferer may feel they have no choice but to act on the thought they have, no matter how hard they try to avoid the repetitive behaviour, it can become life controlling.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is OCD?<b class="pull-right">(3)</b></h2>
 				<h3>Some of the more common obsessive compulsive disorder behaviours may include:</h3>
@@ -42,7 +43,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Obsessive Compulsive Disorder Symptoms and Cycles<b class="pull-right">(1)</b></h2>
 				<h3>OCD can cause depression</h3>
@@ -52,7 +53,7 @@ include ('include/nav.html');
 				<p>Your mind may be overwhelmed by a constant obsessive fear, thought or worry, such as you must shower after using the toilet or wash your hands repeatedly</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Obsessive Compulsive Disorder Symptoms and Cycles<b class="pull-right">(2)</b></h2>
 				<h3>The Anxiety</h3>
@@ -63,14 +64,14 @@ include ('include/nav.html');
 				<p> The compulsive behaviour (washing hands or showering) reduces the stress and anxiety but the obsession and anxiety soon return, causing the cycle to begin again, it may feel like whatever you do – it is not enough.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What causes obsessive compulsive disorder?</h2>
 				<p>There is evidence that OCD may be common in families and a generic reason may be the cause. There are other professionals who argue that OCD could be a learned behaviour.
 					In either case, if you are around people with OCD, then you are more likely to pick up some of the anxiety and behaviours.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Counselling Helps</h2>
 				<p>Depending on how severe your OCD is or how much it affects your ability to function in your life, will somewhat dictate the treatment you will benefit best from.

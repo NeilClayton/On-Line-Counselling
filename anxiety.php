@@ -5,21 +5,22 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Anxiety</h1>
-				<p>Anxiety is a commonly diagnosed mental health problem which we all experience at some time in our lives. Anxiety can be a debilitating illness with sufferers restricted in many areas of their lives.</p>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is anxiety?<b class="pull-right">(1)</b></h2>
+				<p>Anxiety is a commonly diagnosed mental health problem which we all experience at some time in our lives. Anxiety can be a debilitating illness with sufferers restricted in many areas of their lives.</p>
 				<p>Anxiety is a feeling of unease, such as worry or fear, it can be mild or severe. Everyone experiences feelings of anxiety at some point, for example, you may feel worried and anxious about sitting an exam or having a medical test or job interview, this anxiety is perfectly normal and in fact helpful, it makes us perform better in a lot of situations.</p>
 				<p>So feeling anxious is sometimes perfectly normal. However, people with generalised anxiety disorder (GAD) find it hard to control their worries most or all of the time.
 					Their feelings of anxiety are more constant and often affect their daily lives, in many cases severe anxiety may result in people being afraid to leave their home or visit busy environments such as shopping centres, bars, or sports arenas.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is anxiety?<b class="pull-right">(2)</b></h2>
 				<p>There are several conditions for which anxiety is the main symptom. Panic disorders, phobias and post-traumatic stress disorder (PTSD) can all cause severe anxiety.</p>
@@ -28,7 +29,7 @@ include ('include/nav.html');
 				<p>Mild, short-term anxiety is extremely common, however, for some people anxiety can become so extreme that it is disabling. A doctor or medical professional may make a diagnosis of (GAD).</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Generalised anxiety disorder (GAD)</h2>
 				<p>GAD is a long-term condition which causes us to feel anxious about a wide range of situations and issues, rather than one specific event. People with GAD feel anxious most days and often struggle to remember the last time they felt relaxed.
@@ -37,7 +38,7 @@ include ('include/nav.html');
 				<button class="btn btn-primary nhs-test"><a href="http://bit.ly/1NE5c8S" target="_blank">Click here</a></button>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Psychological or Emotional effects?<b class="pull-right">(1)</b></h2>
 				<h3>The Psychological effects of Anxiety may include:</h3>
@@ -54,7 +55,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Psychological or Emotional effects?<b class="pull-right">(2)</b></h2>
 				<h3>Physical effects may include:</h3>
@@ -77,7 +78,7 @@ include ('include/nav.html');
 				<p>Sharing your worries with a Counsellor will help you to get to the root of the problem. If you only do one thing, do that thing Now! contact me now, you will have taken the first and most difficult step to recovery.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Anxiety Counselling – What is it?</h2>
 				<p>Anxiety counselling is effective in treating anxiety for most people, Anxiety Counselling aims to help people recognise the stress factors in their lives, and work out coping strategies in order to be able to deal with these more effectively.

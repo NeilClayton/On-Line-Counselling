@@ -5,13 +5,17 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
+			<h1>Self Esteem Issues</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Self Esteem Issue's</h1>
+				<h2>Self Esteem Issue's</h2>
 				<p>Self Esteem for most of us means low self esteem, working to build self esteem is often something we need help with, others see our positives easier than we do.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are self esteem issues?<b class="pull-right">(1)</b></h2>
 				<h3>We all use the expression ‘self esteem’ but what do we mean by it</h3>
@@ -20,7 +24,7 @@ include ('include/nav.html');
 					You may have heard the phrase ‘fake it to make it’ well many people use that strategy to compensate for a low self esteem.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are self esteem issues?<b class="pull-right">(2)</b></h2>
 				<h3>These are some of the words and phrases someone with low self esteem may use to describe themselves:</h3>
@@ -38,7 +42,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are self esteem issues?<b class="pull-right">(3)</b></h2>
 				<p>If you find yourself thinking or saying any of these things, you may benefit from working on your self esteem with a therapist. The great news is that we can all improve how we feel about ourselves.
@@ -56,7 +60,7 @@ include ('include/nav.html');
 				<p>People with low self esteem find it hard to answer ‘yes’ to these questions.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Indicators of low self esteem</h2>
 				<ul>
@@ -75,7 +79,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Raising your self esteem</h2>
 				<p>Counselling and short-term cognitive behaviour therapy (CBT) are very helpful for most people with low self esteem. It allows a person to clear out the cobwebs and release their inhibitions step by step.

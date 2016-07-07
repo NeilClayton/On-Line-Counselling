@@ -5,19 +5,20 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Depression</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is depression?<b class="pull-right">(1)</b></h2>
 				<p> Depression can ruin our relationships not only our own but the people who care about us too. Depression counselling and working on the underlying reasons for depression is the best way to live a happier life.</p>
-				<button class="btn btn-primary nhs-test"><a href="http://bit.ly/ONNYsf" target="_blank">NHS Depression Test</a></button>
+				<button class="btn nhs-test"><a href="http://bit.ly/ONNYsf" target="_blank">NHS Depression Test</a></button>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is depression?<b class="pull-right">(2)</b></h2>
 				<p>Depression is the most commonly diagnosed of all the mental health issues, also closely associated with Anxiety, often both conditions go hand in hand. Depression counselling is the single most effective tool to improve mood and thinking.
@@ -27,7 +28,7 @@ include ('include/nav.html');
 					The word “clinical” simply means that the condition is severe enough to need some form of medical treatment which combined with depression counselling offers the best chance of improvement.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are the symptoms of depression?</h2>
 				<p>Depression can affect different people in many different ways. Depression counselling helps people explore and address the underlying causes for depression. </p>
@@ -55,7 +56,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What can cause depression?</h2>
 				<p>There is no one cause of depression. It varies from person to person. Broadly speaking there are three main triggers for developing depression:</p>
@@ -68,7 +69,7 @@ include ('include/nav.html');
 					It is also thought that some people may have a genetic tendency towards depression.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>How Depression counselling can help and support you</h2>
 				<p>If you are experiencing depression, you may feel unhappy, or feel low, that everything you do is a struggle, and perhaps not worth the effort. Often people experiencing depression feel hopeless about the future and unable to see any positives in life.
@@ -77,7 +78,7 @@ include ('include/nav.html');
 					Working with an Online Counsellor offers people living with depression a more accessible service, no need to travel or leave your home. It is safe and secure and completely confidential, you can even remain anonymous if you prefer.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Why depression counselling is effective?</h2>
 				<p>Depression Counselling Online can be very effective in combating depression for most people. Many people suffering from depression find it difficult to get motivated, and getting out and about can be difficult too.

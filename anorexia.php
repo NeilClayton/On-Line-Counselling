@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>Anorexia Nervosa</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Anorexia Nervosa?</h2>
 				<p>Anorexia nervosa causes the sufferer to fear weight gain and restrict their diet in an unhealthy way. An individual with anorexia is likely to perceive themselves as overweight, even if they are of a normal or below normal weight.
@@ -20,7 +21,7 @@ include ('include/nav.html');
 				<p>If you have anorexia, it may feel as if there is no way out - but there are many professionals out there who can support you during your recovery. Whether it is yourself you are concerned about or a loved one.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(1)</b></h2>
 				<p>If you have an eating disorder, one of the key symptoms will be the way you think about food. Rather than viewing food as something to enjoy or to provide sustenance, you are likely to view food in a negative way.
@@ -38,7 +39,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(2)</b></h2>
 				<h3>Psychological symptoms</h3>
@@ -52,7 +53,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Symptoms of Anorexia Nervosa<b class="pull-right">(3)</b></h2>
 				<h3>Physical symptoms</h3>
@@ -70,7 +71,7 @@ include ('include/nav.html');
 				<p>If anorexia is left untreated, medical intervention may be required and in some cases the disorder can be fatal. With the right treatment and support however, the disorder can be overcome with many sufferers going on to make a full recovery.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Common factors<b class="pull-right">(1)</b></h2>
 				<h3>Psychological factors</h3>
@@ -85,7 +86,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Common factors<b class="pull-right">(2)</b></h2>
 				<h3>Environmental factors</h3>
@@ -99,7 +100,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Previous experience with Anorexia Nervosa</h2>
 				<p>I have worked in the field of eating disorders counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with food and the subsequent behaviours such as anorexia and bulimia which can affect people’s lives,

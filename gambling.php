@@ -5,16 +5,20 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
+			<h1>Gambling</h1>
+			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
+		</div>
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Gambling</h1>
+				<h1>What is Gambling?</h1>
 				<p>A Gambling addiction which takes control of your life will affect your relationships, friendships, financial security, your career and your mental health and well-being.
 					The Lottery, scratch cards, greyhound racing , fruit machines in, casinos in, horse racing at, Bingo online, Football , and online gambling wherever you are we could go on.</p>
 				<p>The point is, there are many, many ways and places where we can gamble today. With technology changing as quickly as it is, we can even take part in each of these activities from the comfort of our own homes, through the internet or interactive television, or just by picking up the telephone. Gambling has for some people become a way of life, for others it has ruined their lives.</p>
 				<p>Sounds exciting doesn’t it, it can be, but for those people who lose control there can be devastating effects. The latest Gambling problem is the surge in online gambling. Gambling related anxiety and depression are on the increase. </p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Signs and Symptoms of a gambling addiction problem</h2>
 				<p>If Gambling is having a negative effect on your life, this is a clear indication that it is a problem. An early warning sign for the gambler may be an experience of euphoria in the event of winning (often accompanied by an urge to win more) and an increasing low when losing. The cycle usually begins when the gambler begins chasing the perceived loss.</p>
@@ -22,7 +26,7 @@ include ('include/nav.html');
 					Now may be the time to talk to an online counsellor with experience of gambling addiction.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2> Some more signs that might indicate problem Gambling may include:</h2>
 				<ul>
@@ -36,7 +40,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Physical and emotional symptoms may include:</h2>
 				<ul>

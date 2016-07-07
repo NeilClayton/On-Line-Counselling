@@ -16,7 +16,7 @@ include ('include/nav.html');
 				</div>
 			</div>
 		</div>
-		<div class="row s-thoughts how-2">
+		<div class="row s-thoughts content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Never give up</h2>
 				<p>Just as your suicidal thoughts took time to develop, they may take some time to go away - but they will fade. Even if you can’t imagine a way out now, the way you are thinking and feeling about things will change.

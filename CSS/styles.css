@@ -1,14 +1,14 @@
 html {
 	height: 100%;
 	box-sizing: border-box;
-	background:url(../Images/back.jpg) center center no-repeat;
+	background:url(../Images/bg.jpg) center center no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
 }
 body {
-	background:rgba(62, 96, 111, 0.5);
+	background:rgba(254, 136, 0, 0.4);
 	margin:0;
-	padding: 60px 0 60px 0;
+	padding: 64px 0 60px 0;
 	position: relative;
 	min-height: 100%;
 }
@@ -24,33 +24,44 @@ body {
 .neda {
 	float:left;
 }
+header {
+	margin: 0;
+	background: white;
+	padding: 40px 0;
+}
+header h1 {
+	margin: 0 0 20px 0;
+	font-family: 'Quando', serif;
+	font-size: 5rem;
+	text-align: center;
+}
 .navbar {
     margin-bottom: 0;
-	border:none;
 	border-radius:0;
 }
 .navbar-default {
-	background: #3E606F;
+	background: white;
 	border: none;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
+	font-family:'Open Sans', sans-serif;
+	font-weight: bold;
 	font-size: 1.6rem;
+	-webkit-box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.75);
+	box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.75);
 }
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:visited, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active  {
-	color: white;
+	color: black;
 	padding: 21px 30px;
-}
-.navbar-default .navbar-nav>li:hover {
-	background:#2b4b59;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
 	background:none;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-	color:white;	
+	color: black;
 }
 .dropdown-menu>li>a {
-	color:black;
+	color: black;
+	font-size: 1.4rem;
 }
 .navbar .navbar-nav {
   display: inline-block;
@@ -75,66 +86,95 @@ body {
 }
 /* --- Homepage begins --- */
 .introduction {
-	overflow:hidden;
-	background:none;
-	padding:2% 0;
-	color:white;
+	overflow: hidden;
+	background: transparent;
+	padding: 60px 0;
+	color: white;
 }
-.introduction h1 {
-	margin:2% 0 2% 0;
-	font-family: 'Libre Baskerville', sans-serif;
-	font-weight:bold;
-	font-size:4rem;
-	text-align:center;
+.introduction h2 {
+	margin: 0;
+	font-family: 'Quando', serif;
+	font-size: 3.5rem;
+	text-align: center;
 }
 .introduction p {
-	font-family:'Raleway', sans-serif;
-	font-size:1.5rem;
-	text-align:justify;
+	margin-top: 25px;
+	font-family: 'Open Sans', serif;
+	font-size: 1.6rem;
+	text-align: center;
 }
-.quote {
-	font-style:italic;
+.contactme  {
+	width: 220px;
+	background: white;
+	color: #FF8A00;
+	padding: 12px 0;
+	text-align: center;
+	border-radius: 25px;
+	font-family: 'Quando', serif;
+	font-size: 1.8rem;
+	margin-top: 25px;
 }
-
-.nextdiv {
-	background:white;
-	padding:1% 0;
-    display:flex;
-    align-items: center;
-    justify-content: center;
+.nextsection {
+	background: white;
+	padding: 40px 0;
+	color: black;
 }
-.nextdiv h2 {
-	margin:0 0 2% 0;
-	font-family: 'Libre Baskerville', sans-serif;
-	font-weight:bold;
-	font-size:2.5rem;	
-    vertical-align:middle; /*middle centred*/
-    display:table-cell; /*acts like a table cell*/
+.nextsection p {
+	font-family: 'Open Sans', serif;
+	font-size: 1.6rem;
+	text-align: center;
 }
-.nextdiv li, .advantages li {
-	font-family:'Raleway', sans-serif;
-	text-align:justify;
-	margin:0.5% 0 0 0;
+.nextsection .fa {
+	margin: 0 7px;
 }
-.carousel {
-	width:100%;
+.research {
+	background: transparent;
+	padding: 40px;
+	color: white;
+}
+.research h2 {
+	margin: 0 0 20px 0;
+	font-family: 'Quando', serif;
+	font-size: 3.5rem;
+	text-align: center;
+}
+.research p {
+	margin-top: 10px;
+	font-family:'Open Sans', sans-serif;
+	font-size: 1.6rem;
+	text-align: center;
+}
+.research ul li, .advantages li {
+	font-family:'Open Sans', sans-serif;
+	font-size: 1.6rem;
+	margin: 5px 0;
 }
 .advantages {
-	background:none;
-	overflow:hidden;
-	padding:2.5% 0;
-	color:white;
+	background: white;
+	overflow: hidden;
+	padding: 40px 0;
+	color: black;
 }
-.advantages h1 {
-	margin:6% 0 2% 0;
-	font-family: 'Libre Baskerville', sabs-serif;
-	font-weight:bold;
-	font-size:2rem;		
+.advantages h2 {
+	margin: 0;
+	font-family: 'Quando', serif;
+	font-size: 3.5rem;
+	text-align: center;
 }
 .advantages p {
 	font-family:arial;
 	font-size:1.5rem;
 	text-align:justify;	
+}
+.advantages ul {
+	list-style-type: none;
+	margin-top: 30px;
+	padding: 0;
+	text-align: center;
+}
+.accredited2 {
+	width: 35%;
+	margin: 0 auto;
 }
 /* --- Homepage ends --- */
 
@@ -146,8 +186,7 @@ body {
 }
 .contact h1, .faq h1, .testimonials h1, .fees h1, .how-intro h1, .s-thoughts-intro h1, .inspire-intro h1 {
 	margin:0 0 2% 0;
-	font-family: 'Libre Baskerville', sans-serif;
-	font-weight:bold;
+	font-family: 'Quando', sans-serif;
 	font-size:4rem;
 }
 .contactform {
@@ -245,13 +284,11 @@ textarea {
     color: #454444;
 }
 .faq-end {
-	font-family:'Raleway', sans-serif;
-	text-align:justify;
+	font-family:'Open Sans', sans-serif;
 	margin:1% 0;		
 }
 .faq-end-1 {
-	font-family:'Raleway', sans-serif;
-	text-align:justify;
+	font-family:'Open Sans', sans-serif;
 	margin:3% 0 1% 0;
 }
 /* --- Faq Page ends --- */
@@ -385,7 +422,7 @@ textarea {
 /* --- Fees Page ends --- */
 
 /* --- How Page begins --- */
-.how-intro {
+.content-intro {
 	background:none;
 	color:white;
 	padding:3% 0;
@@ -393,84 +430,103 @@ textarea {
 .inspire-intro {
 	background:none;
 	color:white;
-	padding:3% 0;	
+	padding:30px 0;
 }
 .how-inspire {
 	padding:4% 0;
 	background:white;
 	border-top:1px solid #3E606F;
 }
-.how-intro h1, .inspire-intro h1 {
+.content-intro h1, .inspire-intro h1 {
+	margin: 0;
 	text-align:center;
+	font-family: 'Quando', serif;
+	font-size: 4.5rem;
+	font-weight: normal;
 }
-.how-intro p {
-	font-family:'Raleway', sans-serif;
-	font-size:1.5rem;	
-	text-align:justify;
-}
-.how-1 {
+.content-1 {
 	background:white;
-	padding:1% 0 2% 0;
+	padding: 50px 0 40px 0;
+	color: black;
 }
 .how-image {
 	padding:1% 0;
 }
-.how-3, .how-4 {
+.content-3, .content-4 {
 	padding:3.25% 0 4.75% 0;
 }
-.how-3 h2, .how-4 h2 {
-	margin:5% 0 4% 0;	
+.content-3 h2, .content-4 h2 {
+	margin: 0 0 25px 0;
 }
-.how-1 h2, .how-2 h2, .s-thoughts-intro h2{
-	margin:3% 0 2% 0;
-	font-family: 'Libre Baskerville', serif;
-	font-weight:bold;
-	font-size:3rem;
+.content-1 h2, .content-2 h2, .s-thoughts-intro h2{
+	margin: 0 0 25px 0;
+	font-family: 'Quando', serif;
+	font-size: 3rem;
+	font-weight: normal;
 }
 .hello {
 	margin-top:1.5% !important;
 }
-.how-1 p, .how-2 p, .s-thoughts-intro p {
-	font-family:'Raleway', sans-serif;
-	font-size:1.5rem;	
-	text-align:justify;	
+.content-1 p, .content-2 p, .s-thoughts-intro p {
+	margin-bottom: 10px;
+	font-family:'Open Sans', sans-serif;
+	font-size:1.6rem;
 }
-.how-1 ul, .how-2 ul {
-	font-family:'Raleway', sans-serif;
-	font-size:1.5rem;		
+.content-1 ul, .content-2 ul {
+	font-family:'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size:1.6rem;
+	list-style-type: none;
 }
-.how-2 {
+.content-1 ul li:before, .content-2 ul li:before {
+	content: "\f111";
+	font-family: FontAwesome;
+	margin-right: 10px;
+}
+.content-2 {
 	background:none;
-	padding:1% 0 2% 0;
+	padding: 50px 0 40px 0;
 	color:white;
 }
 .nhs-test {
 	margin-top:2%;
-	font-family:'Raleway', sans-serif;
-	font-size:1.5rem;		
+	font-family:'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size:1.6rem;
 }
-.btn-primary a {
-	color:white;
+.content-1 .btn a {
+	color: #FF8A00;
 }
 .btn-primary a {
 		text-decoration:none;
 }
-.how-1 .btn-primary {
-	font-size:1.6rem;
-	padding:0.6% 2%;
+.nav-tabs {
+	margin-bottom: 20px;
 }
-.how-1 h3, .how-2 h3, .s-thoughts-intro h3 {
-	margin:3% 0 1% 0;
-	font-family: 'Libre Baskerville', serif;
-	font-weight:bold;
-	font-size:1.8rem;	
+.nav-tabs li:before {
+	content: "" !important;
 }
-.how-2 a {
+.content-1 .btn{
+	margin-top: 25px;
+	font-family:'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 1.6rem;
+	background: white;
+	border: 1px solid #FF8A00;
+	padding: 12px 30px
+}
+.content-1 h3, .content-2 h3, .s-thoughts-intro h3 {
+	margin: 25px 0;
+	font-family: 'Quando', serif;
+	font-size: 1.8rem;
+	font-weight: normal;
+}
+.content-2 a {
 	font-style:italic;
 	color:white;
 	text-decoration:underline;
 }
-.how-1 .btn-info, .how-2 .btn-info {
+.content-1 .btn-info, .content-2 .btn-info {
 	margin-top:1%;
 }
 /* --- How Page ends --- */
@@ -589,7 +645,7 @@ footer {
 	left: 0;
 	height:60px;
 	width:100%;
-	background:#3E606F;
+	background: #FF8A00;
 	color:white;
 	padding:0;
 }

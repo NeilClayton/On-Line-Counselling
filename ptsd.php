@@ -5,12 +5,13 @@
 include ('include/header_bottom.html');
 include ('include/nav.html');
 ?>
-		<div class="row how-intro">
+		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h1>PTSD (Post Traumatic Stress Disorder)</h1>
+				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is PTSD?<b class="pull-right">(1)</b></h2>
 				<p>​If you are involved in, or witness a traumatic event, it is common to experience upsetting, distressing or confusing feelings afterwards. The feelings of distress may not emerge straight away – you may just feel emotionally numb at first.
@@ -19,7 +20,7 @@ include ('include/nav.html');
 				<p>There’s no time limit on distress, and some people may not develop post-traumatic symptoms until many years after the event. Additionally, not everyone who has experienced a traumatic event develops PTSD.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is PTSD?<b class="pull-right">(2)</b></h2>
 				<h3>Other terms for PTSD</h3>
@@ -34,7 +35,7 @@ include ('include/nav.html');
 				<p>Today, the term PTSD can be used to describe the psychological problems resulting from any traumatic event.</p>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​What are the symptoms?<b class="pull-right">(1)</b></h2>
 				<p>The symptoms of PTSD can vary from person to person, although you may experience some of the following.</p>
@@ -48,7 +49,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​What are the symptoms?<b class="pull-right">(2)</b></h2>
 				<h3>Alertness or feeling on edge:</h3>
@@ -64,7 +65,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​What are the symptoms?<b class="pull-right">(3)</b></h2>
 				<h3>Avoiding feelings or memories:</h3>
@@ -78,7 +79,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​What are the symptoms?<b class="pull-right">(4)</b></h2>
 				<h3>​​You may also develop other mental health problems, such as:</h3>
@@ -91,7 +92,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​​What causes PTSD?</h2>
 				<p>The situations we find traumatic can vary from person to person and different events can lead to PTSD. It may be that your responses have been bottled up for a long time after the traumatic event has passed.
@@ -114,7 +115,7 @@ include ('include/nav.html');
 					This response may allow you time away from the trauma and you may subconsciously be beginning to process what you have been through. When you feel ready, you may find the following ideas helpful.</p>
 			</div>
 		</div>
-		<div class="row how-2">
+		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Talk to someone close to you</h2>
 				<p>Talking about your feelings, when you feel ready, may be a good way of coming to terms with the experience. You may turn to friends, relatives and colleagues, talk to me a professional counsellor -therapist
@@ -132,7 +133,7 @@ include ('include/nav.html');
 				</ul>
 			</div>
 		</div>
-		<div class="row how-1">
+		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Look out for warning signs</h2>
 				<h3>You might see a change in the behaviour or mood of the person you want to support. Some of these changes might include:</h3>
