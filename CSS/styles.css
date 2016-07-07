@@ -8,7 +8,7 @@ html {
 body {
 	background:rgba(62, 96, 111, 0.5);
 	margin:0;
-	padding:50px 0 60px 0; 
+	padding: 60px 0 60px 0;
 	position: relative;
 	min-height: 100%;
 }
@@ -30,13 +30,15 @@ body {
 	border-radius:0;
 }
 .navbar-default {
-	background:#3E606F;
-	font-family: 'Raleway', sans-serif;
-	border:none;
+	background: #3E606F;
+	border: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 1.6rem;
 }
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:visited, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active  {
-	color:white;
-	font-size:1.5rem;
+	color: white;
+	padding: 21px 30px;
 }
 .navbar-default .navbar-nav>li:hover {
 	background:#2b4b59;
@@ -67,6 +69,9 @@ body {
 }
 .navbar-toggle, .navbar-toggle:hover, .navbar-toggle:active, .navbar-toggle:focus {
 	background:transparent !important;
+}
+.caret {
+	margin-left: 5px;
 }
 /* --- Homepage begins --- */
 .introduction {
@@ -589,13 +594,14 @@ footer {
 	padding:0;
 }
 footer p {
-	font-family:'Raleway', sans-serif;
-	width:100%;
-	text-align:center;
-	font-size:1.2rem;
-	line-height:60px;
-	padding:0;
-	margin:0;
+	font-family:'Open Sans', sans-serif;
+	width: 100%;
+	text-align: center;
+	font-size: 1.rem;
+	font-weight: 300;
+	line-height: 60px;
+	padding: 0;
+	margin: 0;
 }
 @media all and (max-width:991px) {
 	.nextdiv {
