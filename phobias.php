@@ -1,31 +1,31 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Phobias & Fears</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 		<div class="row content-intro">
-			<h1>Phobias &amp; Fears</h1>
+			<h2>Phobias &amp; Fears</h2>
 			<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Phobias &amp; Fears</h2>
-				<p>A phobia can be an inconvenience or it can take over our lives depending on the fear. Few people really understand how living with a phobia can impact on our lives. Online counselling is very effective.</p>
+				<p class="first">A phobia can be an inconvenience or it can take over our lives depending on the fear. Few people really understand how living with a phobia can impact on our lives. Online counselling is very effective.</p>
 			</div>
 		</div>
 		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is a phobia?</h2>
-				<p>According to the Psychiatric Association, a phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of danger or a fear of harm. For example, those suffering from Agoraphobia fear being trapped in an inescapable place or situation, an elevator lift or even their own home.
+				<p class="first">According to the Psychiatric Association, a phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of danger or a fear of harm. For example, those suffering from Agoraphobia fear being trapped in an inescapable place or situation, an elevator lift or even their own home.
 					A phobia may have its roots in something that actually happened in the past, often in childhood, however the ongoing fear can seem quite irrational, though very real to the sufferer. </p>
 			</div>
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What are the symptoms of a phobia?</h2>
-				<p>Phobic symptoms can occur through exposure to the fear or a situation, or sometimes simply thinking about the feared object can lead to an anxious response. Common symptoms associated with phobias include:</p>
+				<p class="first">Phobic symptoms can occur through exposure to the fear or a situation, or sometimes simply thinking about the feared object can lead to an anxious response. Common symptoms associated with phobias include:</p>
 				<ul>
 					<li>Dizziness.</li>
 					<li>Breathlessness.</li>
@@ -45,24 +45,24 @@ include ('include/nav.html');
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>There are 3 types of Phobia:</h2>
 				<h3>Social phobias</h3>
-				<p>Fear of social situations, for example Crowds.</p>
+				<p class="first">Fear of social situations, for example Crowds.</p>
 				<h3>Trapping Phobias</h3>
-				<p>Fear of being trapped in an inescapable place or situation, maybe an escalator or Lift.</p>
+				<p class="first">Fear of being trapped in an inescapable place or situation, maybe an escalator or Lift.</p>
 				<h3>Specific phobias</h3>
-				<p>Fear of a specific objects, such as a snake.</p>
+				<p class="first">Fear of a specific objects, such as a snake.</p>
 			</div>
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>There are four major categories of specific phobias:</h2>
 				<h3>The Natural World</h3>
-				<p>Maybe a fear of lightening, water, storms, or fire.</p>
+				<p class="first">Maybe a fear of lightening, water, storms, or fire.</p>
 				<h3>Animals</h3>
-				<p>Maybe a fear of snakes, rodents, spiders, or sharks.</p>
+				<p class="first">Maybe a fear of snakes, rodents, spiders, or sharks.</p>
 				<h3>Medical</h3>
-				<p>Maybe a fear of seeing blood, receiving Injections, visiting a doctor, or dentist.</p>
+				<p class="first">Maybe a fear of seeing blood, receiving Injections, visiting a doctor, or dentist.</p>
 				<h3>Situational</h3>
-				<p>Maybe a fear of bridges, leaving the home, driving, crowds or elevators/lifts.</p>
+				<p class="first">Maybe a fear of bridges, leaving the home, driving, crowds or elevators/lifts.</p>
 			</div>
 		</div>
 		<div class="row content-2">
@@ -276,13 +276,12 @@ include ('include/nav.html');
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<p>Phobias are very common, phobias affect more than 10% of the UK population, in many cases, people are able to recognise that their fear is irrational and therefore take steps to overcome their phobia.
+				<p class="first">Phobias are very common, phobias affect more than 10% of the UK population, in many cases, people are able to recognise that their fear is irrational and therefore take steps to overcome their phobia.
 					According to the diagnostic and statistical manual of mental health disorders, only about 10 percent of reported cases become life-long phobias.</p>
-				<h3>Please feel free to <a href="contact.html" target="_blank">contact me</a> for further support</h3>
 			</div>
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include 'includes/socialicons.html';
+include 'includes/footer.php';
 ?>

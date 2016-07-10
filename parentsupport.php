@@ -1,13 +1,13 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Parents Support - Young People & Children</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>For Parents</h1>
+				<h2>For Parents</h2>
 				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
@@ -16,7 +16,7 @@ include ('include/nav.html');
 				<h2>Will my child be supported by someone who is properly trained and qualified? </h2>
 				<p>The main accrediting body for counsellors is the British Association for Counselling and Psychotherapy (BACP). I am accredited by the BACP and have a full membership,
 					I am fully CRB (Criminal Records Bureau) checked also known as DBS (Disclosure & Barring services). I work for the NSPCC and have over 10 years experience working with young people face to face and on line.</p>
-				<div class="accredited">
+				<div class="badges2">
 					<img src="Images/accredited.png" width="204" height="80" class="img-responsive img-thumbnail" alt="accredited member">
 					<img src="Images/bacp.png" width="125" height="83" class="img-responsive img-thumbnail" alt="accredited member of bacp">
 					<img src="Images/cbt.png" width="72" height="88" class="img-responsive img-thumbnail" alt="cbt">
@@ -157,6 +157,6 @@ include ('include/nav.html');
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include 'includes/socialicons.html';
+include 'includes/footer.php';
 ?>

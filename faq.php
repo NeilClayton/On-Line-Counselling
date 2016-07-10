@@ -1,16 +1,16 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>FAQ & Common Questions</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include "includes/header_bottom.html";
+include "includes/nav.html";
 ?>
 		<div class="row faq">
-			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Frequently asked questions</h1>
-				<p class="faq-intro">Although now well established as a method of helping people, counselling, particularly online counselling is still an unknown to many people. So I have written some of the more commonly asked questions and my replies so that you may feel better informed and comfortable. Please see below.</p>
+			<div class="col-md-10 col-md-offset-1">
+				<h2>Frequently asked questions</h2>
+				<p class="normal first">Although now well established as a method of helping people, counselling, particularly online counselling is still an unknown to many people. So I have written some of the more commonly asked questions and my replies so that you may feel better informed and comfortable. Please see below.</p>
 			</div>
-			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 question">
+			<div class="col-md-10 col-md-offset-1 questions">
 				<div class="panel-group" id="accordion">
 					<div class="panel panel-default">
 						<div class="panel-heading">
@@ -85,17 +85,17 @@ include ('include/nav.html');
 							</div>
 						</div>
 					</div>
-					<p class="faq-end-1">I am also pleased that so many of my past clients have written and agreed to share their experiences of working with me in my testimonials page, please feel free to check out some of the comments from past clients,
+					<p class="normal first">I am also pleased that so many of my past clients have written and agreed to share their experiences of working with me in my testimonials page, please feel free to check out some of the comments from past clients,
 						I am hope that you will find their comments informative and useful.</p>
-					<p class="faq-end">Thank you for taking the time to read about my service. I hope you found it useful.
+					<p class="normal">Thank you for taking the time to read about my service. I hope you found it useful.
 						If you have a question that has not been answered here, then please feel free to send your question to me and I will respond to your question shortly.</p>
-					<p class="faq-end" >Whatever your problem is, whether its one big problem or a whole host of niggling problems, I will help you.
+					<p class="normal">Whatever your problem is, whether its one big problem or a whole host of niggling problems, I will help you.
 						Having someone to really listen to you and your worries really helps.Using my 13 years experience of actually working as a counsellor, using tried and tested counselling strategies to help you find your way again, I will help you to take control of your life, starting Today!</p>
 				</div>
 			</div>
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include'includes/socialicons.html';
+include'includes/footer.php';
 ?>

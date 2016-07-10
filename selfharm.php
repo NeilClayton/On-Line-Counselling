@@ -1,13 +1,13 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Self Harm</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Self Harm</h1>
+				<h2>Self Harm</h2>
 			</div>
 		</div>
 		<div class="row content-1">
@@ -61,6 +61,6 @@ include ('include/nav.html');
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include 'includes/socialicons.html';
+include 'includes/footer.php';
 ?>

@@ -1,21 +1,21 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Eating Disorders - Binge Eating</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 
 		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>Binge-Eating Disorder</h1>
+				<h2>Binge-Eating Disorder</h2>
 				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Binge-Eating Disorder?<b class="pull-right">(1)</b></h2>
-				<p>Binge-eating disorder is a form of compulsive overeating that is effecting a growing number of people globally. Sufferers feel a compulsion to consume large quantities of food on a regular basis.
+				<p class="first">Binge-eating disorder is a form of compulsive overeating that is effecting a growing number of people globally. Sufferers feel a compulsion to consume large quantities of food on a regular basis.
 					They may not feel able to control their desire to binge and may eat even if they are not hungry. Binges are usually planned and can involve specially purchased 'bingeing' foods. </p>
 				<p>Episodes of binge-eating typically take place in private and can last for a number of hours. Some may binge all day long, feeling powerless to stop no matter how full they become.
 					Often binge eaters will feel extremely distressed and upset - consumed with guilt over their lack of control. This shame can prevent sufferers from seeking help, but may also be a sign of underlying emotional issues.
@@ -25,7 +25,7 @@ include ('include/nav.html');
 		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is Binge-Eating Disorder?<b class="pull-right">(2)</b></h2>
-				<p>Although only recently recognised as a separate condition, binge-eating disorder is considered the most common eating disorder. Unlike other eating disorders such as anorexia, it equally affects men and women of all ages.
+				<p class="first">Although only recently recognised as a separate condition, binge-eating disorder is considered the most common eating disorder. Unlike other eating disorders such as anorexia, it equally affects men and women of all ages.
 					It can, tend to be more common in adults than young people, and a particularly high percentage of adults in their 40s and 50s have the disorder. </p>
 			</div>
 		</div>
@@ -33,11 +33,11 @@ include ('include/nav.html');
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Causes of binge-eating disorders<b class="pull-right">(1)</b></h2>
 				<h3>Stress</h3>
-				<p>Extensive research has shown that mood triggers our impulse to eat. In regards to binge-eating disorder, stress and anxiety are considered among the most common triggers.
+				<p class="first">Extensive research has shown that mood triggers our impulse to eat. In regards to binge-eating disorder, stress and anxiety are considered among the most common triggers.
 					Typically, a number of sufferers will resort to overeating as a short-term release from the ups and downs of life - particularly distressing experiences and personal difficulties that put great strain on their mental well-being.
 					Food provides a soothing and comforting escape, although binge-eating is a far more destructive form of comfort eating</p>
 				<h3>Depression</h3>
-				<p>Depression and binge-eating disorder are strongly linked. According to the NHS, nearly 50% of all binge-eating disorder sufferers have had depression at one point in their life.
+				<p class="first">Depression and binge-eating disorder are strongly linked. According to the NHS, nearly 50% of all binge-eating disorder sufferers have had depression at one point in their life.
 					However depression can also be an effect of binge-eating disorder as well as a cause.</p>
 			</div>
 		</div>
@@ -80,13 +80,13 @@ include ('include/nav.html');
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Previous experience with Binge-Eating</h2>
-				<p>I have worked in the field of eating disorders counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with food and the subsequent behaviours such as anorexia and bulimia which can affect people’s lives, focusing on the underlying life issues which contribute to food related problems
+				<p class="first">I have worked in the field of eating disorders counselling and therapy for several years both face to face and online counselling. I have helped many clients who struggle with food and the subsequent behaviours such as anorexia and bulimia which can affect people’s lives, focusing on the underlying life issues which contribute to food related problems
 					I can help clients to learn to live a life free of the debilitating problematic use of food. Most food related issues are a result of unresolved psychological issues from our pasts,
 					I can help you to find closure.</p>
 			</div>
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include 'includes/socialicons.html';
+include 'includes/footer.php';
 ?>
