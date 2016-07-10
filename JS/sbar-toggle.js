@@ -3,7 +3,7 @@ $(document).ready(function(){
         $("#fb").toggle();
 		$("#twitter").toggle();
 		$("#print").toggle();
-		$("#email").toggle();
+		$("#email-me").toggle();
     });
 });
 

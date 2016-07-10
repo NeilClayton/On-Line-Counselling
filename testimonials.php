@@ -1,13 +1,13 @@
-<?php include ('include/header_top.html'); ?>
+<?php include ('includes/header_top.html'); ?>
 
 <title>Testimonials</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include "includes/header_bottom.html";
+include "includes/nav.html";
 ?>
 		<div class="row testimonials">
 			<div class="col-sm-12 col-md-10 col-md-offset-1">
-				<h1>Testimonials left by previous clients</h1>
+				<h2>Testimonials left by previous clients</h2>
 				<ul>
 					<li>
 						<a class="stickynote1" href="#">
@@ -44,6 +44,6 @@ include ('include/nav.html');
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include('includes/socialicons.html');
+include('includes/footer.php');
 ?>

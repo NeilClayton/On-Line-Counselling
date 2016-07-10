@@ -1,6 +1,6 @@
 <?php
-include('include/function.php');
-include('include/connection.php');
+include 'includes/function.php';
+include 'includes/connection.php';
 if (isset($_POST['submit'])) {
     echo connection_open();
     if (isset($_POST['product_id'])) {

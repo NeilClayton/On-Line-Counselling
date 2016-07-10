@@ -3,7 +3,7 @@
 include('include/connection.php');
 echo connection_open();*/
 ?>
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 	<title>Payment successful</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<!-- Latest compiled and minified CSS -->

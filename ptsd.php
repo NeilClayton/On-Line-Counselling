@@ -1,20 +1,20 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Post Traumatic Stress Disorder</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 		<div class="row content-intro">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<h1>PTSD (Post Traumatic Stress Disorder)</h1>
+				<h2>PTSD (Post Traumatic Stress Disorder)</h2>
 				<a role="button" href="contact.php" class="center-block contactme">Contact me today</a>
 			</div>
 		</div>
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is PTSD?<b class="pull-right">(1)</b></h2>
-				<p>​If you are involved in, or witness a traumatic event, it is common to experience upsetting, distressing or confusing feelings afterwards. The feelings of distress may not emerge straight away – you may just feel emotionally numb at first.
+				<p class="first">​If you are involved in, or witness a traumatic event, it is common to experience upsetting, distressing or confusing feelings afterwards. The feelings of distress may not emerge straight away – you may just feel emotionally numb at first.
 					After a while you may develop emotional and physical reactions, such as feeling easily upset or not being able to sleep.</p>
 				<p>This is understandable, and many people find that these symptoms disappear in a relatively short period of time. But if your problems last for longer than a month, or are very extreme, you may be given a diagnosis of post-traumatic stress disorder (PTSD).</p>
 				<p>There’s no time limit on distress, and some people may not develop post-traumatic symptoms until many years after the event. Additionally, not everyone who has experienced a traumatic event develops PTSD.</p>
@@ -24,7 +24,7 @@ include ('include/nav.html');
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>What is PTSD?<b class="pull-right">(2)</b></h2>
 				<h3>Other terms for PTSD</h3>
-				<p>The diagnosis ‘PTSD’ was first used by veterans of the Vietnam War, but the problem has existed for a lot longer and has had a variety of names, including:</p>
+				<p class="first">The diagnosis ‘PTSD’ was first used by veterans of the Vietnam War, but the problem has existed for a lot longer and has had a variety of names, including:</p>
 				<ul>
 					<li>Shell shock.</li>
 					<li>Soldier’s heart.</li>
@@ -38,7 +38,7 @@ include ('include/nav.html');
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​What are the symptoms?<b class="pull-right">(1)</b></h2>
-				<p>The symptoms of PTSD can vary from person to person, although you may experience some of the following.</p>
+				<p class="first">The symptoms of PTSD can vary from person to person, although you may experience some of the following.</p>
 				<h3>Reliving aspects of the trauma:</h3>
 				<ul>
 					<li>Vivid flashbacks (feeling that the trauma is happening all over again.</li>
@@ -95,7 +95,7 @@ include ('include/nav.html');
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>​​What causes PTSD?</h2>
-				<p>The situations we find traumatic can vary from person to person and different events can lead to PTSD. It may be that your responses have been bottled up for a long time after the traumatic event has passed.
+				<p class="first">The situations we find traumatic can vary from person to person and different events can lead to PTSD. It may be that your responses have been bottled up for a long time after the traumatic event has passed.
 					Your problems may only emerge months or sometimes years after a traumatic experience, affecting your ability to lead your life as you’d like to.</p>
 				<h3>A traumatic event could include:</h3>
 				<ul>
@@ -118,12 +118,12 @@ include ('include/nav.html');
 		<div class="row content-2">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Talk to someone close to you</h2>
-				<p>Talking about your feelings, when you feel ready, may be a good way of coming to terms with the experience. You may turn to friends, relatives and colleagues, talk to me a professional counsellor -therapist
+				<p class="first">Talking about your feelings, when you feel ready, may be a good way of coming to terms with the experience. You may turn to friends, relatives and colleagues, talk to me a professional counsellor -therapist
 					<strong>you</strong> can decide when you want to talk about what <strong>you</strong> have been been through.</p>
 				<h3>How can friends and family help?</h3>
-				<p>This div is for friends or family who wish to support someone who has PTSD. #If you are a work colleague of someone who has PTSD, this div may also be useful for you.</p>
+				<p class="first">This div is for friends or family who wish to support someone who has PTSD. #If you are a work colleague of someone who has PTSD, this div may also be useful for you.</p>
 				<h3>Listen</h3>
-				<p>Social support is really important in helping someone with PTSD seek help and recover.</p>
+				<p class="first">Social support is really important in helping someone with PTSD seek help and recover.</p>
 				<h3>You can help by:</h3>
 				<ul>
 					<li>Listening to their experience, if they want to tell you about it.</li>
@@ -136,19 +136,19 @@ include ('include/nav.html');
 		<div class="row content-1">
 			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 				<h2>Look out for warning signs</h2>
-				<h3>You might see a change in the behaviour or mood of the person you want to support. Some of these changes might include:</h3>
+				<p class="important">You might see a change in the behaviour or mood of the person you want to support. Some of these changes might include:</p>
 				<ul>
 					<li>A change in performance at work, lateness or taking sick leave</li>
 					<li>A change in mood, such as anger, irritability or depression.</li>
 					<li>A change in energy levels, such as alertness or a lack of concentration..</li>
 				</ul>
-				<p>If you notice a change in the behaviour of someone close to you, you could ask them how they feel. If they are going through a difficult time, this might encourage them to seek help.</p>
-				<h3>Help them seek support</h3>
+				<p class="first">If you notice a change in the behaviour of someone close to you, you could ask them how they feel. If they are going through a difficult time, this might encourage them to seek help.</p>
+				<p class="important">Help them seek support</p>
 				<p>If they want you to, you could help your friend or family member seek support. ​This could start with you exploring sources of support together including my page.</p>
 			</div>
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include 'includes/socialicons.html';
+include 'includes/footer.php';
 ?>

@@ -1,51 +1,42 @@
-<?php include ('include/header_top.html'); ?>
+<?php include 'includes/header_top.html'; ?>
 
 <title>Contact Me - On Line Counselling Affordable, Skype On Line Counselling Via On Line Chat, Psychologist</title>
 <?php
-include ('include/header_bottom.html');
-include ('include/nav.html');
+include 'includes/header_bottom.html';
+include 'includes/nav.html';
 ?>
 		<div class="row contact">
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
-				<h1>Please feel free to contact me</h1>
-			</div>
-		</div>
-		<div class="row contactform">
-			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
-				<form>
-					<!-- Div to group these elements -->
+				<h2>Please feel free to contact me</h2>
+				<form action="" method="post">
 					<div class="form-group ">
 						<label for="name">Full name</label>
-						<input type="text" class="form-control" id="inputHelpBlock name" placeholder="Who are you?" aria-describedby="helpBlock" autofocus>
-						<span id="helpBlock" class="help-block">Leave this field blank if you wish to keep your anonymity.</span>
+						<input type="text" class="form-control" id="inputHelpBlock name" placeholder="Please enter your name" name="name" aria-describedby="helpBlock" autofocus>
+						<span id="helpBlock" class="help-block important">Leave this field blank if you wish to keep your anonymity.</span>
 					</div>
-					<!-- Div to group these elements -->
 					<div class="form-group">
-						<label for="email">Email address</label>
-						<input type="email" id="email" class="form-control" placeholder="Please enter your e-mail address" aria-describedby="helpBlock" required>
+						<label for="email">Email address<b class="asterisk">*</b></label>
+						<input type="email" id="email" class="form-control" placeholder="Please enter your e-mail address" name="email" aria-describedby="helpBlock" required>
 					</div>
-					<!-- Div to group these elements -->
 					<div class="form-group">
-						<label for="subject">Subject</label>
-						<input type="subject" id="subject" class="form-control" placeholder="Please enter a subject" aria-describedby="helpBlock" required>
+						<label for="subject">Subject<b class="asterisk">*</b></label>
+						<input type="text" id="subject" class="form-control" placeholder="Please enter a subject" name="subject" aria-describedby="helpBlock" required>
 					</div>
-					<!-- Div to group these elements -->
 					<div class="form-group">
-						<label for="Email">Message</label>
+						<label for="Email">Message<b class="asterisk">*</b></label>
 						<textarea class="form-control" id="message" rows="7" cols="100" maxlength="1000" required placeholder="Please enter your message"></textarea>
-						<p id="countleft" class="text-info"></b><br>
 					</div>
-					<div class="checkbox">
-						<label>
-							<input type="checkbox">Check here to receive email updates
+					<div class="roundedTwo">
+						<label class="check">
+							<input type="checkbox" required>Check here to receive email updates
 						</label>
 					</div>
-					<button type="submit" class="btn btn-primary">Submit</button>
+					<button type="submit" name="submit">Submit</button>
 				</form>
 			</div>
 		</div>
 	</div>
 <?php
-include('include/socialcons.html');
-include('include/footer.php');
+include'includes/socialicons.html';
+include'includes/footer.php';
 ?>
