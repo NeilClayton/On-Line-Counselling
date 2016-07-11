@@ -789,7 +789,7 @@ header .img img {
   color: white;
 }
 .faq .questions .panel .panel-heading [data-toggle="collapse"]:after {
-  font-family: 'FontAwesome';
+  font-family: 'FontAwesome', sans-serif;
   content: "\f078";
   float: right;
   color: white;
@@ -1072,14 +1072,39 @@ header .img img {
 footer {
   background: #FFA500;
   color: white;
-  padding: 25px 0;
-}
-footer p {
-  margin: 0;
+  padding: 25px 0 0 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
   font-size: 1.4rem;
+}
+footer p {
+  margin: 0;
   text-align: center;
+}
+footer .no-gutter {
+  padding-left: 0;
+  padding-right: 0;
+}
+footer .wwb {
+  margin-top: 30px;
+  font-size: 1.3rem;
+  text-align: center;
+  color: white;
+  background: #de9103;
+  padding: 5px 0;
+}
+footer .wwb ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+footer .wwb ul li {
+  display: inline-block;
+  padding: 0 6px;
+}
+footer .wwb ul li a {
+  color: white;
 }
 
 @media all and (max-width: 1367px) {
