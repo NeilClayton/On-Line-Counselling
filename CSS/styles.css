@@ -112,6 +112,19 @@ header .img img {
   margin-right: 10px;
 }
 
+.spinner {
+  margin-top: -90px;
+  overflow: hidden;
+  height: 100vh;
+  background: white;
+}
+.spinner img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
 /* Home */
 .intro {
   background: transparent;
