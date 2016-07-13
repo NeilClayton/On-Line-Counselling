@@ -28,7 +28,9 @@ if (isset($_POST['submit'])) {
     'includes/header_top.html'; ?>
     <title>Processing your payment</title>
     <?php include 'includes/header_bottom.html';?>
-    <div class="spinner"><img src="images/loading.gif" alt="processing"></div>
+    <div class="spinner">
+        <img src="images/loader.gif" alt="processing your payment">
+    </div>
     <form name="myform" action="<?php echo $paypal_url; ?>" method="post" target="_top">
         <input type="hidden" name="cmd" value="_xclick">
         <input type="hidden" name="cancel_return" value="<?php echo $cancel_return ?>">
