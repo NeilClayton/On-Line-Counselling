@@ -29,11 +29,9 @@ include 'includes/nav.html';
 					<div class="form-group">
 						<div class="g-recaptcha" data-sitekey="6LfypyQTAAAAAE6KccNeAwM2RfU4QEJTSasEokjB"></div>
 					</div>
-					<div class="roundedTwo">
-						<label class="check">
-							<input type="checkbox" required>Check here to receive email updates
-						</label>
-					</div>
+					<label class="check">
+						<input type="checkbox" required>Check here to receive email updates
+					</label>
 					<button type="submit" name="submit">Submit</button>
 				</form>
 			</div>

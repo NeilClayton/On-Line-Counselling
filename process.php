@@ -24,8 +24,11 @@ if (isset($_POST['submit'])) {
         $product_currency = $result['product_currency'];
         echo connection_close();
     }
-    ?>
-    <div style="margin-left: 38%"><img src="Images/paypal-loader.gif"/></div>
+
+    'includes/header_top.html'; ?>
+    <title>Processing your payment</title>
+    <?php include 'includes/header_bottom.html';?>
+    <div class="spinner"><img src="images/loading.gif" alt="processing"></div>
     <form name="myform" action="<?php echo $paypal_url; ?>" method="post" target="_top">
         <input type="hidden" name="cmd" value="_xclick">
         <input type="hidden" name="cancel_return" value="<?php echo $cancel_return ?>">
@@ -42,5 +45,6 @@ if (isset($_POST['submit'])) {
     <script type="text/javascript">
         document.myform.submit();
     </script>
-<?php } ?>
+<?php }
+include 'includes/footer.php'?>
 
