@@ -19,5 +19,6 @@
 </footer>
 <script src="js/navscroll.js"></script>
 <script src="js/sbar-toggle.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 </body>
 </html>

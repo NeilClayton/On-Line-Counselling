@@ -8,7 +8,7 @@ include 'includes/nav.html';
 		<div class="row contact">
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
 				<h2>Please feel free to contact me</h2>
-				<form action="" method="post">
+				<form action="Action/contact.php" method="post">
 					<div class="form-group ">
 						<label for="name">Full name</label>
 						<input type="text" class="form-control" id="inputHelpBlock name" placeholder="Please enter your name" name="name" aria-describedby="helpBlock" autofocus>
@@ -25,6 +25,9 @@ include 'includes/nav.html';
 					<div class="form-group">
 						<label for="Email">Message<b class="asterisk">*</b></label>
 						<textarea class="form-control" id="message" rows="7" cols="100" maxlength="1000" required placeholder="Please enter your message"></textarea>
+					</div>
+					<div class="form-group">
+						<div class="g-recaptcha" data-sitekey="6LfypyQTAAAAAE6KccNeAwM2RfU4QEJTSasEokjB"></div>
 					</div>
 					<div class="roundedTwo">
 						<label class="check">
