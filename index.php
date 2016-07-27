@@ -6,11 +6,9 @@ include "includes/header_bottom.html";
 include "includes/nav.html";
 ?>
         <div class="row intro" id="intro">
-            <div class="col-md-12">
-                <div class="content">
-                    <h2>Online Counselling Services</h2>
-                    <a role="button" href="#next" class="scroll center-block"><i class="fa fa-chevron-down"></i></a>
-                </div>
+            <div class="col-md-12 content">
+                <h2>Online Counselling Services</h2>
+                <a role="button" href="#next" class="scroll center-block"><i class="fa fa-chevron-down"></i></a>
             </div>
         </div>
         <div class="row next" id="next">

@@ -112,7 +112,7 @@
 #social-sidebar a[class*="plus"] span,
 #social-sidebar a[class*="plus"] span:before {background: #8DC5F2;}
 
-@media all and (max-width:414px) {
+@media all and (max-width:736px) {
 	#social-sidebar {
 		display: none;
 	}
